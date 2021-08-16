@@ -3,7 +3,7 @@
 ## 1. Sites avaliados individualmente
 
 - Abner Filipe - <a href="https://www.core-am.org.br/" target="_blank">Conselho Regional dos Representantes Comerciais no Estado do Amazonas</a>
-- Davi Marinho -  <a href="https://codeforces.com/" target="_blank">CodeForces</a>
+- Davi Marinho - <a href="https://codeforces.com/" target="_blank">CodeForces</a>
 - Rafael Leão - <a href="https://sig.unb.br/sigaa/verTelaLogin.do" target="_blank">SIGAA UnB</a>
 - Victor Souza Dantas Martins Lima - <a href="http://www.detran.df.gov.br/" target="_blank">Detran-DF</a>
 - Victor Yukio Cavalcanti Miki - <a href="http://www.nahora.df.gov.br/" target="_blank">Na hora DF</a>
@@ -29,16 +29,16 @@ OBS.: Essas datas podem mudar futuramente.
 
 ### 2.1 Cronograma de atividades
 
-|Título|Data|Descrição|
-|:-----:|:-----------------------------:|:----------------------------------:|
-|Planejamento do Projeto|16/08|Planejamento do Projeto e Processo de Design|
-|Entrega da apresentação do projeto|28/08| Perfil do usuário, Personas e Análise de tarefas|
-|Entrega da apresentação do projeto|04/09|Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)|
-|Entrega da apresentação do projeto|08/09|Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.|
-|Entrega da apresentação do projeto|20/09|Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|
-|Entrega da apresentação do projeto|02/10|Relato dos resultados do Protótipo de Papel e Planejamento daAvaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade|
-|Verificação dos artefatos.|04/10|Verificação dos artefatos construídos no projeto|
-|Entrega da apresentação do projeto final|20/10|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
+|                  Título                  | Data  |                                                                       Descrição                                                                       |
+| :--------------------------------------: | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Planejamento do Projeto          | 16/08 |                                                     Planejamento do Projeto e Processo de Design                                                      |
+|    Entrega da apresentação do projeto    | 28/08 |                                                   Perfil do usuário, Personas e Análise de tarefas                                                    |
+|    Entrega da apresentação do projeto    | 04/09 |                           Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)                           |
+|    Entrega da apresentação do projeto    | 08/09 |                  Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.                   |
+|    Entrega da apresentação do projeto    | 20/09 | Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel. |
+|    Entrega da apresentação do projeto    | 02/10 |    Relato dos resultados do Protótipo de Papel e Planejamento daAvaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade     |
+|        Verificação dos artefatos.        | 04/10 |                                                   Verificação dos artefatos construídos no projeto                                                    |
+| Entrega da apresentação do projeto final | 20/10 |         Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.          |
 
 <center>
 <figcaption>Tabela 1 - Cronograma de atividades</figcaption>
@@ -87,19 +87,18 @@ A partir das reuniões, e após a realização do planning poker para determinar
 
 ## 4. Ferramentas Utilizadas
 
-| Ferramenta | Nome | Descrição |
-|:--:|:--:|:--:|
-|  | Prefeitura de Londrina | Site da prefeitura de Londrina com serviços de informação e agentamento para cidadões de Londrina. |
-|  | Github | Ferramenta de versionamntno de código |
-|  | Discord | Ferramenta de Comunicação por voz e texto |
-|  | Telegram | Ferramenta de Comunicação por texto |
-|  | Microsoft Teams | Ferramenta de organização da disciplina |
-|  | Google Docs | Ferramenta de criação e compartilhamento de documentos |
-|  | Canva | Ferramenta de design gráfico  |
-|  | Figma | Ferramenta de prototipação de projetos baseados em design web e mobile |
-|  | LiveShare | Ferramenta de edição de código em time |
-|  | VsCode | Editor de texto |
-|  | Drawio | Ferramenta para criação de gráficos e artefatos |
+|                                                           Ferramenta                                                            |      Nome       |                               Descrição                                |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------: | :--------------------------------------------------------------------: |
+|           <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/github.png" alt="Github_icon">           |     Github      |                 Ferramenta de versionamntno de código                  |
+|          <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/discord.png" alt="discord_icon">          |     Discord     |               Ferramenta de Comunicação por voz e texto                |
+|         <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/telegram.png" alt="telegram_icon">         |    Telegram     |                  Ferramenta de Comunicação por texto                   |
+|            <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/teams.png" alt="teams_icon">            | Microsoft Teams |                Ferramenta de organização da disciplina                 |
+|             <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/docs.png" alt="docs_icon">             |   Google Docs   |         Ferramenta de criação e compartilhamento de documentos         |
+|            <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/canva.png" alt="canva_icon">            |      Canva      |                      Ferramenta de design gráfico                      |
+|            <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/figma.png" alt="Figma_icon">            |      Figma      | Ferramenta de prototipação de projetos baseados em design web e mobile |
+|        <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/liveShare.jpg" alt="liveShare_icon">        |    LiveShare    |                 Ferramenta de edição de código em time                 |
+| <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/visualStudioCode.png" alt="visualStudioCode_icon"> |     VsCode      |                            Editor de texto                             |
+|           <img width="80px" height="80px" style="border-radius:50%" src="../assets/img/drawio.png" alt="drawio_icon">           |     Drawio      |            Ferramenta para criação de gráficos e artefatos             |
 
 <center>
 <figcaption>Tabela 2 - Ferramentas utilizadas</figcaption>
@@ -110,6 +109,7 @@ A partir das reuniões, e após a realização do planning poker para determinar
 > SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010.
 
 ## Versionamento
-| Versão | Data | Modificação | Autor |
-|--|--|--|--|
-| 1.0 | 11/08/2021 | Criação do projeto base | Abner Filipe, Victor Lima, Victor Yukio |
+
+| Versão | Data       | Modificação             | Autor                                   |
+| ------ | ---------- | ----------------------- | --------------------------------------- |
+| 1.0    | 11/08/2021 | Criação do projeto base | Abner Filipe, Victor Lima, Victor Yukio |
