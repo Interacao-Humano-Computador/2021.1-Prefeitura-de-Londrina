@@ -14,7 +14,7 @@ Em consenso, escolhemos o site da <a href="https://portal.londrina.pr.gov.br/">P
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-O planejamento do site da Prefeitura de Londrina está hospedado <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/EX75t_s9mNpNqDmMVwW0GVQBwhi85s7oR4KbHU-CuHLaRQ?e=u3fBUj" target="_blank">aqui</a> e a avalição heurística está <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/ESQXBSFnw11DgXHcbxBIzXIBUiBmyUN_TcjCwj0S0EOihg?e=ZU2ZgB" target="_blank">aqui</a>.
+O planejamento do site da Prefeitura de Londrina está hospedado <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/190044403_aluno_unb_br/ERfVZxn_HSZBts2ulKFUJ3MBPIOzX1Do5tjisM5QcBOJvw?e=lms82L" target="_blank">aqui</a> e a avalição heurística está <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/190044403_aluno_unb_br/EfQsqg0VRRtOq0w7xvMkrEYB83ybosljZjzeRHzb8BIo-g?e=eC4ds2" target="_blank">aqui</a>.
 </p>
 
 ## 2. Cronograma
