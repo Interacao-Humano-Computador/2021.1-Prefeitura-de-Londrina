@@ -23,6 +23,7 @@ nav:
     - Apresentação 1: apresentacao/apresentacao1.md
   - Análise de tarefas:
     - CPM GOMS: analise_de_tarefas/cpm_goms.md
+    - KLM: analise_de_tarefas/klm.md
 
 plugins:
   - search
