@@ -99,8 +99,9 @@ O método é estruturado em um conjunto de operadores primitivos:
 
 ## Versionamento
 
-|    Data    | Versão |                     Descrição                     |    Autor    |
-| :--------: | :----: | :-----------------------------------------------: | :---------: |
-| 25/08/2021 |  0.1   |             Estruturação do documento             | Rafael Leão |
-| 25/08/2021 |  0.2   |          Escrita do tópico de Introdução          | Rafael Leão |
-| 26/08/2021 |  1.0   | Elaboração da análise de tarefas com o método KLM | Rafael Leão |
+|    Versão    | Data |                     Modificação                   |    Autor    |
+| :----------: | :--: | :-----------------------------------------------: | :---------: |
+| 0.1 |  25/08/2021   |             Estruturação do documento             | Rafael Leão |
+| 0.2 |  25/08/2021   |          Escrita do tópico de Introdução          | Rafael Leão |
+| 1.0 |  26/08/2021   | Elaboração da análise de tarefas com o método KLM | Rafael Leão |
+| 1.1 |  26/08/2021   |               Revisando documento                 | Abner Filipe|
