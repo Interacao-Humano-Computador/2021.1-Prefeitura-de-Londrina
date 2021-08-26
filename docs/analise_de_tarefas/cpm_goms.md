@@ -31,7 +31,7 @@ Models, Th eories, and Frameworks: Toward a Multidisciplinary Science. San Franc
 
 ## Versionamento
 
-|Data|Versão|Modificação|Autor|
+|Versão|Data|Modificação|Autor|
 |:--:|:--:|:--:|:--:|
-|25/08 |0.1|Criação do documento|Abner Filipe|
-|26/08 |1.0|Adicionando CPM-GOMS|Abner Filipe|
+|0.1|25/08|Criação do documento|Abner Filipe|
+|1.0|26/08|Adicionando CPM-GOMS|Abner Filipe|
