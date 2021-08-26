@@ -75,6 +75,7 @@ Julia é moradora de Londrina desde criança e trabalha no shopping da cidade, e
 Pedro precisa encontrar facilmente onde pagar seu imposto de renda, iptu, ipva, etc… dentro do site, ele é muito atarefado então precisa fazer isso com a maior rapidez possível, ele tem muita facilidade com tecnologia, mas precisa de um site que flua facilmente e naturalmente.
 ## Versionamento
 
-| Versão | Data       | Modificação                          | Autor                                   |
-| ------ | ---------- | ------------------------------------ | --------------------------------------- |
-| 1.0    | 16/08/2021 | Personas produzidas e adicionadas. | Davi Marinho                            |
+|Versão|Data|Modificação|Autor|
+|:--:|:--:|:--:|:--:|
+|1.0|26/08/2021|Personas produzidas e adicionadas.|Davi Marinho|
+|1.1|26/08/2021|Revisão do documento.|Abner Filipe|
