@@ -10,6 +10,7 @@ theme:
   features:
     - navigation.tabs
   logo: assets/img/brasao_londrina.jpg
+  favicon: assets/img/brasao_londrina.jpg
   palette:
     primary: black
     accent: blue
