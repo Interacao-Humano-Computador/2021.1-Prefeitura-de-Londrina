@@ -21,6 +21,8 @@ nav:
   - Processo de Design: processo_design/processo-de-design.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
+  - Análise de tarefas:
+    - CPM GOMS: analise_de_tarefas/cpm_goms.md
 
 plugins:
   - search
