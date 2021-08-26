@@ -11,7 +11,7 @@ Personas são personagens fictícios, criadas para descrever o publico alvo do p
 
 ## Giovanni Carlos
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="450px" src="../assets/img/personas/giovannicarlos.png">
+  <img width="450px" src="../../assets/img/personas/giovannicarlos.png">
   <figcaption>
     Persona 1 - retirada do site: https://thispersondoesnotexist.com/ </figcaption>
 </div>
@@ -24,7 +24,7 @@ Giovanni precisa estar por dentro de todas as informações sobre a prefeitura d
 
 ## Maria Fernanda
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="450px" src="../assets/img/personas/mariafernanda.png">
+  <img width="450px" src="../../assets/img/personas/mariafernanda.png">
   <figcaption>
     Persona 2 - retirada do site: https://thispersondoesnotexist.com/ </figcaption>
 </div>
@@ -37,7 +37,7 @@ Maria Fernanda é estudante e acessa o site para ver informações sobre novos c
 
 ## Jose Amaurilio
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="450px" src="../assets/img/personas/joseamaurilio.png">
+  <img width="450px" src="../../assets/img/personas/joseamaurilio.png">
   <figcaption>
     Persona 3 - retirada do site: https://thispersondoesnotexist.com/ </figcaption>
 </div>
@@ -50,7 +50,7 @@ José é um microempreendedor no ramo de marcenaria, ele está abrindo seu prime
 
 ## Julia Cristina
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="450px" src="../assets/img/personas/juliacristina.png">
+  <img width="450px" src="../../assets/img/personas/juliacristina.png">
   <figcaption>
     Persona 4 - retirada do site: https://thispersondoesnotexist.com/ </figcaption>
 </div>
@@ -63,7 +63,7 @@ Julia é moradora de Londrina desde criança e trabalha no shopping da cidade, e
 
 ## Pedro Tomás
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="450px" src="../assets/img/personas/pedrotomas.png">
+  <img width="450px" src="../../assets/img/personas/pedrotomas.png">
   <figcaption>
     Persona 5 - retirada do site: https://thispersondoesnotexist.com/ </figcaption>
 </div>
@@ -75,6 +75,7 @@ Julia é moradora de Londrina desde criança e trabalha no shopping da cidade, e
 Pedro precisa encontrar facilmente onde pagar seu imposto de renda, iptu, ipva, etc… dentro do site, ele é muito atarefado então precisa fazer isso com a maior rapidez possível, ele tem muita facilidade com tecnologia, mas precisa de um site que flua facilmente e naturalmente.
 ## Versionamento
 
-| Versão | Data       | Modificação                          | Autor                                   |
-| ------ | ---------- | ------------------------------------ | --------------------------------------- |
-| 1.0    | 16/08/2021 | Personas produzidas e adicionadas. | Davi Marinho                            |
+|Versão|Data|Modificação|Autor|
+|:--:|:--:|:--:|:--:|
+|1.0|26/08/2021|Personas produzidas e adicionadas.|Davi Marinho|
+|1.1|26/08/2021|Revisão do documento.|Abner Filipe|
