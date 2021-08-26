@@ -9,7 +9,7 @@
   ## Sobre o Projeto
   
   <p align="justify">
-    O objetivo desse projeto é analisar o site da <a href="https://portal.londrina.pr.gov.br/"> Prefeitura de Londrina </a> para levantamento dos possíveis problemas de interação com o usuário para a matéria de engenharia de software Interação Humano Computador 2021.1.
+    O objetivo desse projeto é analisar o site da <a href="https://portal.londrina.pr.gov.br/"> Prefeitura de Londrina </a> para levantamento dos possíveis problemas de interação com o usuário para a matéria de engenharia de software Interação Humano Computador 2021.1. 
   </p>
   
   ## Equipe
