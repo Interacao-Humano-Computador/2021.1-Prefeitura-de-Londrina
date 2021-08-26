@@ -1,10 +1,5 @@
 # Processo de Design
 
-## Versionamento
-|Nome|Descrição|Data|
-|:--:|:-------:|:--:|
-|Rafael Leão e Vitor Diniz|Criação do documento|13/08/2021|
-
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
@@ -75,3 +70,9 @@ Devido às características mencionadas acima do processo de Engenharia de Usabi
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 > Paterno, Fabio (1999). Model-Based Design and Evaluation of Interactive Applications. Springer-Verlag, Berlin, Heidelberg, 1st edition.
+
+## Versionamento
+| Versão | Data| Modificação|Autor|
+| :--: | :--: | :--: | :--:|
+| 1.0    | 13/08/2021 | Criação do documento | Rafael Leão e Vitor Diniz |
+| 1.1    | 26/08/2021 |Ajuste de padrão de documento | Abner Filipe, Davi Marinho e Victor Lima |

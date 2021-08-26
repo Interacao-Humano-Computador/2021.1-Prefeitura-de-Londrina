@@ -1,0 +1,26 @@
+site_name: Prefeitura de Londrina
+repo_url: https://github.com/Interacao-Humano-Computador/2021.1-Prefeitura-de-Londrina 
+
+theme:
+  name: "material"
+  lang:
+    - pt
+  palette:
+    primary: green
+  features:
+    - navigation.tabs
+  logo: assets/img/brasao_londrina.jpg
+  palette:
+    primary: black
+    accent: blue
+
+nav:
+  - Inicio: index.md
+  - Planejamento: planejamento/planejamento.md
+  - Processo de Design: processo_design/processo-de-design.md
+  - Apresentações: 
+    - Apresentação 1: apresentacao/apresentacao1.md
+
+plugins:
+  - search
+

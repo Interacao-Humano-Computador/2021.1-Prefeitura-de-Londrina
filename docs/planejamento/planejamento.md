@@ -87,18 +87,18 @@ A partir das reuniões, e após a realização do planning poker para determinar
 
 ## 4. Ferramentas Utilizadas
 
-|                                                           Ferramenta                                                            |      Nome       |                               Descrição                                |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------: | :--------------------------------------------------------------------: |
-|           <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/github.png" alt="Github_icon">           |     Github      |                 Ferramenta de versionamntno de código                |
-|          <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/discord.png" alt="discord_icon">          |     Discord     |               Ferramenta de Comunicação por voz e texto                |
-|         <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/telegram.png" alt="telegram_icon">         |    Telegram     |                  Ferramenta de Comunicação por texto                   |
-|            <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/teams.png" alt="teams_icon">            | Microsoft Teams |                Ferramenta de organização da disciplina                 |
-|             <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/docs.png" alt="docs_icon">             |   Google Docs   |         Ferramenta de criação e compartilhamento de documentos         |
-|            <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/canva.png" alt="canva_icon">            |      Canva      |                      Ferramenta de design gráfico                      |
-|            <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/figma.png" alt="Figma_icon">            |      Figma      | Ferramenta de prototipação de projetos baseados em design web e mobile |
-|        <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/liveShare.jpg" alt="liveShare_icon">        |    LiveShare    |                 Ferramenta de edição de código em time                 |
-| <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/visualStudioCode.png" alt="visualStudioCode_icon"> |     VsCode      |                            Editor de texto                             |
-|           <img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/drawio.png" alt="drawio_icon">           |     Drawio      |            Ferramenta para criação de gráficos e artefatos             |
+| Ferramenta | Nome | Descrição |
+| :--: | :--: | :--: |
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/github.png" alt="Github_icon">| Github | Ferramenta de versionamento de código|
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/discord.png" alt="discord_icon">|Discord|Ferramenta de Comunicação por voz e texto |
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/telegram.png" alt="telegram_icon">|Telegram|Ferramenta de Comunicação por texto |                  
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/teams.png" alt="teams_icon">|Microsoft Teams|Ferramenta de organização da disciplina  |
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/docs.png" alt="docs_icon">|Google Docs|Ferramenta de criação e compartilhamento de documentos|
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/canva.png" alt="canva_icon">|Canva|Ferramenta de design gráfico|
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/figma.png" alt="Figma_icon">|Figma|Ferramenta de prototipação de projetos baseados em design web e mobile|
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/liveShare.jpg" alt="liveShare_icon">|LiveShare|Ferramenta de edição de código em time |
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/visualStudioCode.png" alt="visualStudioCode_icon">|VsCode|                        Editor de texto|
+|<img width="80px" height="80px" style="border-radius:50%" src="../../assets/img/ferramentas/drawio.png" alt="drawio_icon">|Drawio|Ferramenta para criação de gráficos e artefatos|
 
 <center>
 <figcaption>Tabela 2 - Ferramentas utilizadas</figcaption>
@@ -110,6 +110,7 @@ A partir das reuniões, e após a realização do planning poker para determinar
 
 ## Versionamento
 
-| Versão | Data       | Modificação             | Autor                                   |
-| ------ | ---------- | ----------------------- | --------------------------------------- |
+| Versão | Data | Modificação | Autor |
+| :--: | :--: | :--: | :--: |
 | 1.0    | 11/08/2021 | Criação do projeto base | Abner Filipe, Victor Lima, Victor Yukio |
+| 1.1    | 26/08/2021 |Ajuste de padrão de documento | Abner Filipe, Davi Marinho e Victor Lima |
