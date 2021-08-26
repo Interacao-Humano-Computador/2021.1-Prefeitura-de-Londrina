@@ -23,11 +23,8 @@ nav:
     - Apresentação 1: apresentacao/apresentacao1.md
   - Análise de tarefas:
     - CPM GOMS: analise_de_tarefas/cpm_goms.md
-<<<<<<< HEAD
     - KLM: analise_de_tarefas/klm.md
-=======
     - Personas: analise_de_tarefas/personas.md
->>>>>>> 8ddfc18d2c0a90f34705de7bdb6e83352ab5f8e3
 
 plugins:
   - search
