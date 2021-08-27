@@ -24,10 +24,12 @@ nav:
     - CPM GOMS: analise_de_tarefas/cpm_goms.md
     - HTA: analise_de_tarefas/hta.md
     - KLM: analise_de_tarefas/klm.md
+    - CTT: analise_de_tarefas/ctt.md
     - Perfil do usuário:
       - Personas: analise_de_tarefas/personas.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
+
 
 plugins:
   - search
