@@ -26,6 +26,7 @@ nav:
     - CPM GOMS: analise_de_tarefas/cpm_goms.md
     - KLM: analise_de_tarefas/klm.md
     - Personas: analise_de_tarefas/personas.md
+    - CTT: analise_de_tarefas/ctt.md
 
 plugins:
   - search
