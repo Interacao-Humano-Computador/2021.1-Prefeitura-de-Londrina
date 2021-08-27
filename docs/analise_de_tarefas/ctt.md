@@ -56,7 +56,7 @@ O site da prefeitura de Londrina Possui as seguintes tarefas:
 ## 4 - Diagramas das árvores de tarefas concorrentes
 
 <div
-    style="text-align:center"><img src="../assets/img/task-trees/legenda.png"
+    style="text-align:center"><img src="../../assets/img/task-trees/legenda.png"
 >
 </div>
 <center>
@@ -64,7 +64,7 @@ O site da prefeitura de Londrina Possui as seguintes tarefas:
 </center>
 
 <div
-    style="text-align:center"><img src="../assets/img/task-trees/CTT-consultar.png"
+    style="text-align:center"><img src="../../assets/img/task-trees/CTT-consultar.png"
 >
 </div>
 <center>
@@ -72,7 +72,7 @@ O site da prefeitura de Londrina Possui as seguintes tarefas:
 </center>
 
 <div
-    style="text-align:center"><img src="../assets/img/task-trees/tela-consulta.png"
+    style="text-align:center"><img src="../../assets/img/task-trees/tela-consulta.png"
 >
 </div>
 <center>
@@ -80,7 +80,7 @@ O site da prefeitura de Londrina Possui as seguintes tarefas:
 </center>
 
 <div
-    style="text-align:center"><img src="../assets/img/task-trees/CTT-logar.jpeg"
+    style="text-align:center"><img src="../../assets/img/task-trees/CTT-logar.jpeg"
 >
 </div>
 <center>
@@ -88,7 +88,7 @@ O site da prefeitura de Londrina Possui as seguintes tarefas:
 </center>
 
 <div
-    style="text-align:center"><img src="../assets/img/task-trees/tela-login.png"
+    style="text-align:center"><img src="../../assets/img/task-trees/tela-login.png"
 >
 </div>
 <center>
@@ -104,4 +104,5 @@ Livro - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Dari
 
 | Versão | Data | Modificação | Autor |
 | :---: |:---: | :---: | :---: |
-|  1.2  | 25/08/2021 | Criação do CTT | Victor Yukio |
+|  1.0  | 25/08/2021 | Criação do CTT | Victor Yukio |
+|  1.1  | 27/08/2021 | Revisando o documento | Abner Filipe |
