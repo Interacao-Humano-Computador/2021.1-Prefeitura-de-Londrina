@@ -22,13 +22,13 @@ Essa é uma análise que busca mapear a sequência e quantidade de objetivos, su
 </p>
 
 <div align = "justify">
-##### Sobre a cidade
 <pre>
 GOAL 0: descobrir informações sobre a cidade de Londrina
 	GOAL 1: encontrar secção sobre dados relacionados à COVID-19
 		OP.1.1: examinar dados sobre casos de COVID-19
         OP.1.2: examinar dados sobre vacinação contra à COVID-19
-        OP.1.3: examinar dados sobre as despesas da prefeitura com o programa de vacinação
+        OP.1.3: examinar dados sobre as despesas da prefeitura com 
+		o programa de vacinação
 	GOAL 2: obter informações sobre a cidade
 		OP.2.1: examinar texto sobre historia da cidade
 		OP.2.2: examinar texto sobre economia
@@ -51,3 +51,4 @@ GOAL 0: descobrir informações sobre a cidade de Londrina
 |0.1|25/08|Criação do documento sobre CMN-GOMS|Vitor Diniz|
 |0.2|26/08|Modificando e ajustando documento|Vitor Diniz|
 |1.0|26/08|Finalizando análise de tarefa CMN-GOMS|Vitor Diniz|
+|1.1|27/08|Revisando o documento|Abner Filipe|
