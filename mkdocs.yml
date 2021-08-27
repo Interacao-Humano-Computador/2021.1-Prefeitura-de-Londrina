@@ -22,6 +22,7 @@ nav:
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
   - Análise de tarefas:
+    - CMN GOMS: analise_de_tarefas/cmn_goms.md
     - CPM GOMS: analise_de_tarefas/cpm_goms.md
     - KLM: analise_de_tarefas/klm.md
     - Personas: analise_de_tarefas/personas.md
