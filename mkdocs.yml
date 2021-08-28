@@ -29,7 +29,7 @@ nav:
       - Personas: analise_de_tarefas/personas.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
-
+    - Apresentaçao 2: apresentacao/apresentacao2.md
 
 plugins:
   - search
