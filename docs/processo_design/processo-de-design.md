@@ -65,13 +65,13 @@ Por conseguinte, tem-se a fase de design, avaliação e desenvolvimento, que tem
 Devido às características mencionadas acima do processo de Engenharia de Usabilidade de Mayweh e dos demais processos que não utilizaremos, a equipe decidiu em colocar em prática esse Ciclo de Vida no nosso projeto para que possamos buscar o melhor desenvolvimento possível diante da nossa proposta.
 </p>
 
-## Referências bibliográficas
+### Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 > Paterno, Fabio (1999). Model-Based Design and Evaluation of Interactive Applications. Springer-Verlag, Berlin, Heidelberg, 1st edition.
 
-## Versionamento
+### Versionamento
 | Versão | Data| Modificação|Autor|
 | :--: | :--: | :--: | :--:|
 | 1.0    | 13/08/2021 | Criação do documento | Rafael Leão e Vitor Diniz |

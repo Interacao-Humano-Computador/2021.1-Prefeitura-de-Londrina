@@ -2,7 +2,9 @@
 
 ## 1 - Introdução
 
+<p align = "justify">
 Para auxiliar no design e na avaliação de IHC, usamos o modelo de árvores de tarefa concorrentes. O CTT permite representar diversas relações entre as tarefas através gráficos e ilustrações que tornam mais claros o fluxo de tarefas. Os quatro tipos de tarefas são:
+</p>
 
 * Tarefas do usuário, realizadas fora do sistema;
 * tarefas do sistema, em que o sistema realiza um processamento sem interagir com o usuário;
@@ -12,9 +14,13 @@ tarefas que auxilie a decomposição;
 
 ## 2 - Elaboração
 
+<p align = "justify">
 O Portal da Transparência da Prefeitura de Londrina é um ambiente criado para facilitar o acesso às informações da Prefeitura pelo cidadão.
+</p>
 
+<p align = "justify">
 Considerando a Lei de Acesso à Informação (Lei 12.527, de 18/11/2011) e a Lei Complementar 131, de 27/05/2009,  o Portal da Prefeitura de Londrina busca a cada dia praticar a cultura da transparência e do controle social no Município de Londrina.
+</p>
 
 * **Perfil**
     <p>Cidadão da cidade de Londrina e precisa de informações seguras e relevantes
@@ -24,8 +30,9 @@ Considerando a Lei de Acesso à Informação (Lei 12.527, de 18/11/2011) e a Lei
     - cidadão comum de Londrina com baixo nível de permissão dentro do sistema.
 
 ## 3 - Cenário das Tarefas
-
+<p align = "justify">
 Para criar a árvore de tarefas, defimos quais funções abrigam nosso sistema e então separamos entre os quatro tipos de tarefa.
+</p>
 
 O site da prefeitura de Londrina Possui as seguintes tarefas:
 
@@ -96,11 +103,11 @@ O site da prefeitura de Londrina Possui as seguintes tarefas:
 </center>
 
 
-# Referência
+### Referência
 
-Livro - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> Livro - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-# Versionamento
+### Versionamento
 
 | Versão | Data | Modificação | Autor |
 | :---: |:---: | :---: | :---: |

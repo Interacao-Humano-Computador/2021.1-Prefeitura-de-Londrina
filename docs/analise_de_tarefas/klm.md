@@ -84,20 +84,13 @@ O método é estruturado em um conjunto de operadores primitivos:
   </tr>
 </table>
 
-#### Referências
+### Referências
 
-<div><p align = "justify">
-  <ul>  
-    <li>https://tassioauad.com/2017/04/10/analise-de-tarefas-com-goms-klm-e-cmn-goms/ último acesso em: 25/08/2021 às 9:20</li>
-  </ul>
+ > https://tassioauad.com/2017/04/10/analise-de-tarefas-com-goms-klm-e-cmn-goms/ último acesso em: 25/08/2021 às 9:20
 
-  <ul>  
-    <li>Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.</li>
-  </ul>
-</p>
-</div>
+  > Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
-## Versionamento
+### Versionamento
 
 |    Versão    | Data |                     Modificação                   |    Autor    |
 | :----------: | :--: | :-----------------------------------------------: | :---------: |

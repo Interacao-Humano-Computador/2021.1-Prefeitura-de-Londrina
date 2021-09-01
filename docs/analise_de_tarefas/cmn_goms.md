@@ -38,13 +38,11 @@ GOAL 0: descobrir informações sobre a cidade de Londrina
 </pre>
 </div>
 
-#### Referências
-<div><p align = "justify">
-+ Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-</p>
-</div>
+### Referências
 
-## Versionamento
+> Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
+
+### Versionamento
 
 |Versão|Data|Modificação|Autor|
 |:--:|:--:|:--:|:--:|

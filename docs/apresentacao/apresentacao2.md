@@ -8,7 +8,7 @@
 
 O video também pode ser encontrado na pasta "assets/video" dentro do github.
 
-## Versionamento
+### Versionamento
 
 | Versão | Data | Modificação | Autor |
 | :--: | :--: | :--: | :--: |

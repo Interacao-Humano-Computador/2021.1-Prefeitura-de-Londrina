@@ -16,17 +16,16 @@ A análise de tarefas busca compreender o trabalho dos usuários, colocando em p
 * Uma **operação** é especificada pelas circunstâncias nas quais o objetivo é ativado(_input_ ou _entrada_), pelas atividades ou ações (_actions_) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (_feedback_).
 *  Uma **ação** pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o _**input**_ como estados e o _**feedback**_ como testes ou avaliação do estado final.
 
-##  Análise da tarefa de acesso às informações do covid-19
+## Análise da tarefa de acesso às informações do covid-19
 
 <img width="1000px" src="../../assets/img/diagrama_hta.png">
 
-#### Referências
+### Referências
 
-  <ul>  
-    <li>Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.</li>
-  </ul>
+> Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
-## Versionamento
+### Versionamento
+
 |Versão|Data|Modificação|Autor|
 |:--:|:--:|:--:|:--:|
 |1.0|27/08/2021|Criação do diagrama HTA.|Victor Lima|
