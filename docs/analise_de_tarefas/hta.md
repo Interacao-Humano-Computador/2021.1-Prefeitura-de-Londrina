@@ -20,11 +20,11 @@ A análise de tarefas busca compreender o trabalho dos usuários, colocando em p
 
 <img width="1000px" src="../../assets/img/diagrama_hta.png">
 
-### Referências
+## Referências
 
 > Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
-### Versionamento
+## Versionamento
 
 |Versão|Data|Modificação|Autor|
 |:--:|:--:|:--:|:--:|

@@ -17,13 +17,13 @@ A estrutura do CPM-GOMS assume que os usuários são extremamente experientes e 
 Justamente pelo fato dos usuários não serem extremamente experientes com o sistema por ser mais um sistema de consulta de prefeitura, não é possível aplicar o CPM-GOMS pois, como descrito anteriormente, o CPM-GOMS presume que todos os usuários que servem como base e como parâmetro no estudo sejam experientes. Além disso, as tarefas disponíveis no site estão organizadas de maneira não clara e desorganizada, o que certamente influenciaria no tempo médio estabelecido pelo MHP, assim alterando o resultado final no CPM-GOMS.
 </p>
 
-### Referências
+## Referências
 
 > Artigo: John, B.E. “Information Processing and Skilled Behavior”. In: J.M. Carroll (ed.), HCI Models, Th eories, and Frameworks: Toward a Multidisciplinary Science. San Francisco, CA: Morgan Kaufmann, pp. 55–101, 2003.
 
 > Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
-### Versionamento
+## Versionamento
 
 |Versão|Data|Modificação|Autor|
 |:--:|:--:|:--:|:--:|

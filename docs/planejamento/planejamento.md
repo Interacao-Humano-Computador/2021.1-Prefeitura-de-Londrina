@@ -104,11 +104,11 @@ A partir das reuniões, e após a realização do planning poker para determinar
 <figcaption>Tabela 2 - Ferramentas utilizadas</figcaption>
 </center>
 
-### Referências bibliográficas:
+## Referências bibliográficas:
 
 > SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010.
 
-### Versionamento
+## Versionamento
 
 | Versão | Data | Modificação | Autor |
 | :--: | :--: | :--: | :--: |

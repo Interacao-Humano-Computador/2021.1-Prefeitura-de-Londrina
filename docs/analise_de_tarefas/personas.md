@@ -90,10 +90,10 @@ Julia é moradora de Londrina desde criança e trabalha no shopping da cidade, e
 Pedro precisa encontrar facilmente onde pagar seu imposto de renda, iptu, ipva, etc… dentro do site, ele é muito atarefado então precisa fazer isso com a maior rapidez possível, ele tem muita facilidade com tecnologia, mas precisa de um site que flua facilmente e naturalmente.
 </p>
 
-### Referências
+## Referências
 
   > Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-### Versionamento
+## Versionamento
 
 |Versão|Data|Modificação|Autor|
 |:--:|:--:|:--:|:--:|
