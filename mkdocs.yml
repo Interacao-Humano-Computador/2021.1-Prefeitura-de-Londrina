@@ -27,6 +27,8 @@ nav:
     - KLM: analise_de_tarefas/klm.md
     - Perfil do usuário:
       - Personas: analise_de_tarefas/personas.md
+  - Análise de Requisitos:
+    - Guia de Estilo: analise_de_requisitos/guia_de_estilo.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
     - Apresentaçao 2: apresentacao/apresentacao2.md
