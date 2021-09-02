@@ -214,3 +214,4 @@ Não existe nenhuma sequência de diálogos no sistema ou a necessidade de confi
 | 0.5    | 02/09/2021 | Elaboração do tópico de Vocabulário e padrões                             | Vitor Diniz e Rafael Leão |
 | 0.6    | 02/09/2021 | Adicionando referências bibliográficas                                    | Vitor Diniz e Rafael Leão |
 | 1.0    | 02/09/2021 | Finalizando Documento de Guia de Estilo                                   | Vitor Diniz e Rafael Leão |
+| 1.1    | 02/09/2021 | Revisando o documento                                                     | Davi Marinho              |
