@@ -170,7 +170,7 @@ Todos os campos de preenchimento devem ser preenchidos manualmente pelo usuário
 ### 5.2. Seleção
 
 <p style="text-indent: 20px; text-align: justify">
-O usuário tem liberdade para fazer quaisquer seleções desejadas dentro do site, portanto nao há necessidade de bloqueio da seleção.
+O usuário tem liberdade para fazer quaisquer seleções desejadas dentro do site, portanto não há necessidade de bloqueio da seleção.
 </p>
 
 ### 5.3. Ativação

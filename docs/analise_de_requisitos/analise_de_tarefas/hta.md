@@ -7,6 +7,7 @@ A análise de tarefas busca compreender o trabalho dos usuários, colocando em p
 </p>
 
 ## Análise Hierárquica de Tarefas (HTA)
+
 <p align = "justify">
  A análise Hierárquica de tarefas analisa os objetivos de alto nível e os decompões em subobjetivos que são alcançados por operações, a unidade fundamental do HTA.
 </p>
@@ -18,15 +19,15 @@ A análise de tarefas busca compreender o trabalho dos usuários, colocando em p
 
 ## Análise da tarefa de acesso às informações do covid-19
 
-<img width="1000px" src="../../assets/img/diagrama_hta.png">
+<img width="1000px" src="../../../assets/img/diagrama_hta.png">
 
-### Referências
+## Referências
 
 > Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
 
-### Versionamento
+## Versionamento
 
-|Versão|Data|Modificação|Autor|
-|:--:|:--:|:--:|:--:|
-|1.0|27/08/2021|Criação do diagrama HTA.|Victor Lima|
-|1.1|27/08/2021|Criação do documento com diagrama e descrição.|Victor Lima|
+| Versão |    Data    |                  Modificação                   |    Autor    |
+| :----: | :--------: | :--------------------------------------------: | :---------: |
+|  1.0   | 27/08/2021 |            Criação do diagrama HTA.            | Victor Lima |
+|  1.1   | 27/08/2021 | Criação do documento com diagrama e descrição. | Victor Lima |

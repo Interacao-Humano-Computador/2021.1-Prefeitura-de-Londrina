@@ -27,7 +27,8 @@ nav:
       - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
       - KLM: analise_de_requisitos/analise_de_tarefas/klm.md
     - Perfil do usuário:
-      - Personas: analise_de_tarefas/personas.md
+      - Personas: analise_de_requisitos/analise_de_tarefas/personas.md
+    - Princípios de Projeto: analise_de_requisitos/principios_de_projeto.md
     - Guia de Estilo: analise_de_requisitos/guia_de_estilo.md
     - Metas de usabilidade: analise_de_requisitos/metas_de_usabilidade/metas.md
   - Apresentações: 
