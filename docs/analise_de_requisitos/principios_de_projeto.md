@@ -1,3 +1,5 @@
+# Princípios de Projeto
+
 ## Introdução
 
 <p align = "justify">
@@ -31,41 +33,45 @@ Os princípios de projeto têm um ponto em comum: eles não visam apenas resolve
 
 - Projeto para erros: Projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido, por exemplo, o designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados
 
-
-
 ## Princípios no contexto do Portal da Prefeitura de Londrina
 
 ### Presentes
 
 - Correspondência com as Expectativas dos Usuários
-    - <p style="text-align: justify">O Usuário consegue determinar relação entre as variáveis mentais e físicas, fica clara a relação entre o sistema e o mundo real no site da prefeitura.</p>
+
+  - <p style="text-align: justify">O Usuário consegue determinar relação entre as variáveis mentais e físicas, fica clara a relação entre o sistema e o mundo real no site da prefeitura.</p>
 
 - Visibilidade e reconhecimento
-    - <p style="text-align: justify">As ações no site de forma geral são bem explícitas e não deixam o usuário perdido em relação as ações que estão sendo executadas.<p>
+
+  - <p style="text-align: justify">As ações no site de forma geral são bem explícitas e não deixam o usuário perdido em relação as ações que estão sendo executadas.<p>
 
 - Simplicidade nas estruturas das tarefas
-    - <p style="text-align: justify">As tarefas são disponibilizadas de forma simples de acesso o que dificulta a existência de erros e caso surjam, de fácil resolução</p>
+
+  - <p style="text-align: justify">As tarefas são disponibilizadas de forma simples de acesso o que dificulta a existência de erros e caso surjam, de fácil resolução</p>
 
 - Equilíbrio entre controle e liberdade do usuário
-    - <p style="text-align: justify">O usuário tem a liberdade de acessar as funcionalidades porém existem os limites para que o usuário não se perca e os processos fiquem claros no site da prefeitura.</p>
+
+  - <p style="text-align: justify">O usuário tem a liberdade de acessar as funcionalidades porém existem os limites para que o usuário não se perca e os processos fiquem claros no site da prefeitura.</p>
 
 - Consistência e padronização
-    - <p style="text-align: justify">O portal da prefeitura, apesar de não possuir um design muito bonito possui um padrão de estilo e não destoa ao navegar entre as diversas páginas do site.</p>
+  - <p style="text-align: justify">O portal da prefeitura, apesar de não possuir um design muito bonito possui um padrão de estilo e não destoa ao navegar entre as diversas páginas do site.</p>
 
 ### Não presentes
 
 - Promoção da eficiência do usuário
-    - <p style="text-align: justify">A plataforma não se preocupa com a eficiência do usuário em primeiro lugar, ele disponibiliza as informações em várias abas, não ficando fácil ao usuário encontrá-las, tomando muito tempo do usuário.</p>
+
+  - <p style="text-align: justify">A plataforma não se preocupa com a eficiência do usuário em primeiro lugar, ele disponibiliza as informações em várias abas, não ficando fácil ao usuário encontrá-las, tomando muito tempo do usuário.</p>
 
 - Antecipação das necessidades do usuário
-    - <p style="text-align: justify">O site não disponibiliza um FAQ de fácil acesso tentando prever e facilitar o acesso dos usuários a determinados temas</p>
+
+  - <p style="text-align: justify">O site não disponibiliza um FAQ de fácil acesso tentando prever e facilitar o acesso dos usuários a determinados temas</p>
 
 - Conteúdo relevante e expressão adequada
-    - <p style="text-align: justify">As páginas que listam dados mostram muitas informações, as quais muitas vezes deixam o usuário perdido dentre tantos dados</p>
+
+  - <p style="text-align: justify">As páginas que listam dados mostram muitas informações, as quais muitas vezes deixam o usuário perdido dentre tantos dados</p>
 
 - Projeto para erros
-    - <p style="text-align: justify">Pelo fato de terem muitas abas e informações de forma totalmente descentralizada o usuário entra em várias páginas as vezes até de outros dominios, dificultando o retorno e a contextualização das atividades</p>
- 
+  - <p style="text-align: justify">Pelo fato de terem muitas abas e informações de forma totalmente descentralizada o usuário entra em várias páginas as vezes até de outros dominios, dificultando o retorno e a contextualização das atividades</p>
 
 ## Referências bibliográficas
 
@@ -75,13 +81,15 @@ Os princípios de projeto têm um ponto em comum: eles não visam apenas resolve
 
 > TOGNAZZINI, B. First Principles of Interaction Design (Revised & Expanded)askTog, 6 mar. 2014. Disponível em: <https://asktog.com/atc/principles-of-interaction-design/>. Acesso em: 1 set. 2021
 
-> NIELSEN, J.; MACK, R. L. (EDS.). Usability Inspection Methods. 1st edition ed. New York: Wiley, 1994. 
+> NIELSEN, J.; MACK, R. L. (EDS.). Usability Inspection Methods. 1st edition ed. New York: Wiley, 1994.
 
-> SHNEIDERMAN, B.; PLAISANT, C. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 5ª edição ed. Boston: Addison Wesley Longman, 2009. 
+> SHNEIDERMAN, B.; PLAISANT, C. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 5ª edição ed. Boston: Addison Wesley Longman, 2009.
 
 > VALENTE, M. Engenharia de Software Moderna: Princípios e práticas para desenvolvimento de software com produtividade. Disponível em: <https://engsoftmoderna.info/cap5.html>. Acesso em: 1 set. 2021
+
 ## Versionamento
 
-| Versão | Data | Modificação | Autor |
-|:--:|:--:|:--:|:--:|
-| 1.0 | 01/09/2021 | Criação do Documento de Princípios Gerais | Victor Lima e Abner Filipe |
+| Versão |    Data    |                Modificação                |           Autor            |
+| :----: | :--------: | :---------------------------------------: | :------------------------: |
+|  1.0   | 01/09/2021 | Criação do Documento de Princípios Gerais | Victor Lima e Abner Filipe |
+|  1.1   | 03/09/2021 |           Revisão do documento            |        Rafael Leão         |
