@@ -3,7 +3,7 @@
 ## Introdução
 
 <p align = "justify">
-Princípios de projeto são recomendações mais concretas que desenvolvedores de software devem seguir para atender às propriedades de projeto que estudamos na seção anterior. Assim, propriedades de projeto podem ser vistas como recomendações ainda genéricas (ou táticas), enquanto que os princípios estão em um nível operacional.
+Princípios de projeto são recomendações mais concretas que desenvolvedores de software devem seguir para atender às propriedades de projeto. Assim, propriedades de projeto podem ser vistas como recomendações ainda genéricas (ou táticas), enquanto que os princípios estão em um nível operacional.
 </p>
 <p  align = "justify">
 Os princípios de projeto têm um ponto em comum: eles não visam apenas resolver um problema, mas também assegurar que a solução encontrada possa ser mantida e evoluída com sucesso, no futuro. Os maiores problemas com projetos de software costumam ocorrer após a implementação, quando o sistema precisa ser mantido. Normalmente, existe uma tendência de que essa manutenção fique gradativamente mais lenta, custosa e arriscada
@@ -37,41 +37,25 @@ Os princípios de projeto têm um ponto em comum: eles não visam apenas resolve
 
 ### Presentes
 
-- Correspondência com as Expectativas dos Usuários
+ - Correspondência com as Expectativas dos Usuários: O Usuário consegue determinar relação entre as variáveis mentais e físicas, fica clara a relação entre o sistema e o mundo real no site da prefeitura.
 
-  - <p style="text-align: justify">O Usuário consegue determinar relação entre as variáveis mentais e físicas, fica clara a relação entre o sistema e o mundo real no site da prefeitura.</p>
+- Visibilidade e reconhecimento: As ações no site de forma geral são bem explícitas e não deixam o usuário perdido em relação as ações que estão sendo executadas.
 
-- Visibilidade e reconhecimento
+- Simplicidade nas estruturas das tarefas: As tarefas são disponibilizadas de forma simples de acesso o que dificulta a existência de erros e caso surjam, de fácil resolução
 
-  - <p style="text-align: justify">As ações no site de forma geral são bem explícitas e não deixam o usuário perdido em relação as ações que estão sendo executadas.<p>
+- Equilíbrio entre controle e liberdade do usuário: O usuário tem a liberdade de acessar as funcionalidades porém existem os limites para que o usuário não se perca e os processos fiquem claros no site da prefeitura.
 
-- Simplicidade nas estruturas das tarefas
-
-  - <p style="text-align: justify">As tarefas são disponibilizadas de forma simples de acesso o que dificulta a existência de erros e caso surjam, de fácil resolução</p>
-
-- Equilíbrio entre controle e liberdade do usuário
-
-  - <p style="text-align: justify">O usuário tem a liberdade de acessar as funcionalidades porém existem os limites para que o usuário não se perca e os processos fiquem claros no site da prefeitura.</p>
-
-- Consistência e padronização
-  - <p style="text-align: justify">O portal da prefeitura, apesar de não possuir um design muito bonito possui um padrão de estilo e não destoa ao navegar entre as diversas páginas do site.</p>
+- Consistência e padronização: O portal da prefeitura, apesar de não possuir um design muito bonito possui um padrão de estilo e não destoa ao navegar entre as diversas páginas do site.
 
 ### Não presentes
 
-- Promoção da eficiência do usuário
+- Promoção da eficiência do usuário: A plataforma não se preocupa com a eficiência do usuário em primeiro lugar, ele disponibiliza as informações em várias abas, não ficando fácil ao usuário encontrá-las, tomando muito tempo do usuário.
 
-  - <p style="text-align: justify">A plataforma não se preocupa com a eficiência do usuário em primeiro lugar, ele disponibiliza as informações em várias abas, não ficando fácil ao usuário encontrá-las, tomando muito tempo do usuário.</p>
+- Antecipação das necessidades do usuário: O site não disponibiliza um FAQ de fácil acesso tentando prever e facilitar o acesso dos usuários a determinados temas
 
-- Antecipação das necessidades do usuário
+- Conteúdo relevante e expressão adequada: As páginas que listam dados mostram muitas informações, as quais muitas vezes deixam o usuário perdido dentre tantos dados
 
-  - <p style="text-align: justify">O site não disponibiliza um FAQ de fácil acesso tentando prever e facilitar o acesso dos usuários a determinados temas</p>
-
-- Conteúdo relevante e expressão adequada
-
-  - <p style="text-align: justify">As páginas que listam dados mostram muitas informações, as quais muitas vezes deixam o usuário perdido dentre tantos dados</p>
-
-- Projeto para erros
-  - <p style="text-align: justify">Pelo fato de terem muitas abas e informações de forma totalmente descentralizada o usuário entra em várias páginas as vezes até de outros dominios, dificultando o retorno e a contextualização das atividades</p>
+- Projeto para erros: Pelo fato de terem muitas abas e informações de forma totalmente descentralizada o usuário entra em várias páginas as vezes até de outros dominios, dificultando o retorno e a contextualização das atividades
 
 ## Referências bibliográficas
 
