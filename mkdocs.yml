@@ -19,16 +19,18 @@ nav:
   - Inicio: index.md
   - Planejamento: planejamento/planejamento.md
   - Processo de Design: processo_design/processo-de-design.md
-  - Análise de tarefas:
-    - CMN GOMS: analise_de_tarefas/cmn_goms.md
-    - CPM GOMS: analise_de_tarefas/cpm_goms.md
-    - CTT: analise_de_tarefas/ctt.md
-    - HTA: analise_de_tarefas/hta.md
-    - KLM: analise_de_tarefas/klm.md
+  - Analise de Requisitos: 
+    - Análise de tarefas:
+      - CMN GOMS: analise_de_requisitos/analise_de_tarefas/cmn_goms.md
+      - CPM GOMS: analise_de_requisitos/analise_de_tarefas/cpm_goms.md
+      - CTT: analise_de_requisitos/analise_de_tarefas/ctt.md
+      - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
+      - KLM: analise_de_requisitos/analise_de_tarefas/klm.md
     - Perfil do usuário:
       - Personas: analise_de_tarefas/personas.md
-  - Análise de Requisitos: 
     - Princípios de Projeto: analise_de_requisitos/principios_de_projeto.md
+    - Guia de Estilo: analise_de_requisitos/guia_de_estilo.md
+    - Metas de usabilidade: analise_de_requisitos/metas_de_usabilidade/metas.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
     - Apresentaçao 2: apresentacao/apresentacao2.md
