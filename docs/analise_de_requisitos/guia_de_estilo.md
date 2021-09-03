@@ -9,7 +9,7 @@ Guia de estilo como o nome se propõe serve como guia para a equipe de design e 
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-No escopo do trabalho, a equipe usará o guia de estilo com o objetivo de servir como um guia para a criação dos protótipos de média e alta fidelidade do site Vjudge, ao longo do processo de desenvolvimento do projeto.
+No escopo do trabalho, a equipe usará o guia de estilo com o objetivo de servir como um guia para a criação dos protótipos de média e alta fidelidade do site da Prefeitura de Londrina, ao longo do processo de desenvolvimento do projeto.
 </p>
 
 ### 1.2. Organização e conteúdo do guia de estilo
