@@ -2,7 +2,7 @@
 
 ## Video
 
-### Apresentação das atividades
+### Apresentação das atividades planejamento do projeto
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-V9J09CLXe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
