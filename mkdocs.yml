@@ -34,6 +34,7 @@ nav:
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
     - Apresentaçao 2: apresentacao/apresentacao2.md
+    - Apresentaçao 3: apresentacao/apresentacao3.md
 
 plugins:
   - search
