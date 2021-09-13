@@ -41,6 +41,9 @@ nav:
     - Apresentação 1: apresentacao/apresentacao1.md
     - Apresentaçao 2: apresentacao/apresentacao2.md
     - Apresentaçao 3: apresentacao/apresentacao3.md
+  - Processos e Atividades de Design:
+    - Nível 1:
+      - Storyboards: atividades_design/storyboards/storyboards.md
 
 plugins:
   - search
