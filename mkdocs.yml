@@ -37,15 +37,14 @@ nav:
         - Planejamento: avaliacao_desenvolvimento/planejamento.md
         - Entrevista: avaliacao_desenvolvimento/entrevista.md
         - Avaliação: avaliacao_desenvolvimento/avaliacao.md
+      - Storyboards: 
+        - Storyboards: atividades_design/storyboards/storyboards.md
+        - Planejamento da Avaliação: atividades_design/storyboards/planejamento_avaliacao.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
     - Apresentaçao 2: apresentacao/apresentacao2.md
     - Apresentaçao 3: apresentacao/apresentacao3.md
-  - Processos e Atividades de Design:
-    - Nível 1:
-      - Storyboards: 
-        - Storyboards: atividades_design/storyboards/storyboards.md
-        - Planejamento da Avaliação: atividades_design/storyboards/planejamento_avaliacao.md
+      
 
 plugins:
   - search

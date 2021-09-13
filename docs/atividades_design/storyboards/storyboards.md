@@ -23,7 +23,7 @@ O storyboard abaixo relata um cenário em que o professor passa um exercício de
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../../assets/img/storyboards/Storyboard1.png" width="100%"></img>
+    <img src="../../../assets/img/storyboards/Storyboard1.png" width="100%"></img>
     <center>
     <figcaption>Figura 1.1 - Situação em que um morador deseja obter informações sobre a Covid-19 na cidade</figcaption>
     </center>
@@ -37,7 +37,7 @@ O storyboard abaixo relata um cenário em que o professor cria um torneio ou uma
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../../assets/img/storyboards/Storyboard2.png" width="100%"></img>
+    <img src="../../../assets/img/storyboards/Storyboard2.png" width="100%"></img>
     <center>
     <figcaption>Figura 2.1 - Situação em que o morador deseja saber informações sobre a campanha de armas na cidade</figcaption>
     </center>
@@ -51,7 +51,7 @@ O storyboard abaixo relata um cenário em que uma pessoa conhece o Vjudge pela p
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../../assets/img/storyboards/Storyboard3.png" width="100%"></img>
+    <img src="../../../assets/img/storyboards/Storyboard3.png" width="100%"></img>
     <center>
     <figcaption>Figura 3 - Situação em que o morador deseja saber quais concursos públicos estão acontecendo na cidades</figcaption>
     </center>
