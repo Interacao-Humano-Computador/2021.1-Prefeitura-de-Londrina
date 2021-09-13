@@ -19,7 +19,7 @@ O storyboard faz com que algumas atividades sejam melhor detalhadas e demonstrad
 ## Storyboard 1
 
 <p style="text-indent: 20px; text-align: justify">
-O storyboard abaixo relata um cenário em que o professor passa um exercício de programação para os alunos.
+O storyboard abaixo mostra uma situação em que o morador necessita saber as informações do covid-19 na cidade.
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
@@ -33,13 +33,13 @@ O storyboard abaixo relata um cenário em que o professor passa um exercício de
 ## Storyboard 2
 
 <p style="text-indent: 20px; text-align: justify">
-O storyboard abaixo relata um cenário em que o professor cria um torneio ou uma competição para dar um ponto extra ao vencedor.
+O storyboard abaixo relata um cenário em que o morador deseja saber sobre o projeto de armas da cidade de Londrina.
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
     <img src="../../../assets/img/storyboards/Storyboard2.png" width="100%"></img>
     <center>
-    <figcaption>Figura 2.1 - Situação em que o morador deseja saber informações sobre a campanha de armas na cidade</figcaption>
+    <figcaption>Figura 2.1 - Situação em que o morador deseja saber informações sobre a campanha de armas na cidade de Londrina</figcaption>
     </center>
 </div>
 
@@ -47,7 +47,7 @@ O storyboard abaixo relata um cenário em que o professor cria um torneio ou uma
 ## Storyboard 3
 
 <p style="text-indent: 20px; text-align: justify">
-O storyboard abaixo relata um cenário em que uma pessoa conhece o Vjudge pela primeira vez, esta situação só tem o caso com a presença do Vjudge pois, relata o primeiro contanto entre o usuário e o sistema.
+O storyboard abaixo relata um cenário em que um estudante deseja saber informações de concursos que serão realizados em Londrina no período atual.
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
