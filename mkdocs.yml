@@ -43,7 +43,9 @@ nav:
     - Apresentaçao 3: apresentacao/apresentacao3.md
   - Processos e Atividades de Design:
     - Nível 1:
-      - Storyboards: atividades_design/storyboards/storyboards.md
+      - Storyboards: 
+        - Storyboards: atividades_design/storyboards/storyboards.md
+        - Planejamento da Avaliação: atividades_design/storyboards/planejamento_avaliacao.md
 
 plugins:
   - search
