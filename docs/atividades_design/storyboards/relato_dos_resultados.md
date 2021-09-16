@@ -1,4 +1,4 @@
-# <center>Relato dos resultados da avaliação dos Storyboards</center>
+# Relato dos resultados da avaliação dos Storyboards
 
 ## Objetivo da Avaliação
 
@@ -69,12 +69,14 @@ Para avaliar o storyboard aplicamos o questionário encontrado no planejamento n
 
 ## Problemas encontrados
 Após a aplicação dos questionários, foi possível encontrar alguns problemas com os storyboard elaborados. São eles: 
+
 - Poderia ser melhor explicado para pessoas com menos familiaridade com a tecnologia, como chegar em determinadas página e abas;
 - Poderia ser melhor retratado como problemas de lentidão podem afetar e atrapalhar o usuário;
 - Retratar melhor como problemas de fluidez e responsividade podem atrapalhar o usuário a atingir seu objetivo.
 
 ## Possíveis Soluções
-A partir dos problemas listados no tópico anterior, foi possível elaborar uma lista com as possíveis soluções para esses problemas.
+A partir dos problemas listados no tópico anterior, foi possível elaborar uma lista com as possíveis soluções para esses problemas:
+
 -  Na fala do personagem que está explicando a tarefa, poderia ter uma referência de onde na tela se encontra o botão ou aba referida;
 - Na fala do personagem que está explicando a tarefa, poderia ser citado a possibilidade de o usuário enfrentar lentidão;
 
