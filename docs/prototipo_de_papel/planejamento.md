@@ -78,6 +78,10 @@ Após cada experiência de uso, deve ser feita a interpretação dos dados, obse
 <ul><li>se algum dos problemas for bem simples, é possível corrigir o protótipo na hora.</li></ul>
 </p>
 
+## Consolidação dos resultados
+
+## Relato dos resultados
+
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
