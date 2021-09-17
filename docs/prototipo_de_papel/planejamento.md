@@ -103,3 +103,4 @@ A última etapa é relatar os resultados obtidos na avaliação. Uma vez que pos
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 22/04/2021 | Criação do documento e planejamento do protótipo de papel | Davi Marinho |
+| 1.1 | 17/09/2021 | Victor Yukio | Relato, Consolidação e protótipo de papel |
