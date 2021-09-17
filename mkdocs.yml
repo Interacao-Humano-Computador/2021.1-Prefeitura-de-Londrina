@@ -40,8 +40,9 @@ nav:
       - Storyboards: 
         - Storyboards: atividades_design/storyboards/storyboards.md
         - Planejamento da Avaliação: atividades_design/storyboards/planejamento_avaliacao.md
-  - Prototipo de Papel: 
-    - Prototipo de Papel: prototipo_de_papel/planejamento.md
+        - Relato dos Resultados: atividades_design/storyboards/relato_dos_resultados.md
+  - Prototipo de Papel:
+    - Planejamento prototipo de Papel: prototipo_de_papel/planejamento.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
     - Apresentaçao 2: apresentacao/apresentacao2.md
