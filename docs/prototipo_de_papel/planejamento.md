@@ -80,7 +80,19 @@ Após cada experiência de uso, deve ser feita a interpretação dos dados, obse
 
 ## Consolidação dos resultados
 
+<p style="text-indent: 20px; text-align: justify">
+Nesse planejamento, temos como objetivo analisar o protótipo de interface, encontrar e marcar os problemas não resolvidos. Assim, conseguimos fazer uma avaliação a cada nível de abstração do protótipo. Uma vez que temos uma lista de problemas podemos estabalecer uma hierarquia de quais são os principais problemas e a ordem que deve ser corrigidos. para por elaborar uma possível solução para cada problema.    
+</p>
+
 ## Relato dos resultados
+
+<p style="text-indent: 20px; text-align: justify">
+A última etapa é relatar os resultados obtidos na avaliação. Uma vez que possuimos um protótipo de papel conseguimos realizar algumas simulações e averigar a usabilidade das atividades. Então fazer a documentação dos relatos obtidos, essas listas correspondem a: Uma sobre problemas de usabilidade corrigidos, sobre problemas de usabilidade não corrigidos e uma última lista sobre sugestões e ideias de correção.
+</p>
+
+## Protótipo em papel
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FNAISc9GIKohEGfEPbaJxSx%2Fprototipo-papel%3Fnode-id%3D1%253A56%26starting-point-node-id%3D1%253A56" allowfullscreen></iframe>
 
 ## Referências bibliográficas
 

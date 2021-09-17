@@ -72,7 +72,7 @@ Os perfis de usuários foram definidos e identificados no planejamento e na entr
 ### Agendamento Seguro Desemprego
  
 <div
-   style="text-align:center"><img src=".../../../assets/img/n1_avaliacao/diagrama_desemprego.png"
+   style="text-align:center"><img src="../../../assets/img/n1_avaliacao/diagrama_desemprego.png"
 >
 </div>
 <center>
