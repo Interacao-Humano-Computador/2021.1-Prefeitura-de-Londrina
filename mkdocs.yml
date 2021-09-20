@@ -49,6 +49,7 @@ nav:
     - Apresentaçao 2: apresentacao/apresentacao2.md
     - Apresentaçao 3: apresentacao/apresentacao3.md
     - Apresentaçao 4: apresentacao/apresentacao4.md
+    - Apresentaçao 5: apresentacao/apresentacao5.md
 
 plugins:
   - search
