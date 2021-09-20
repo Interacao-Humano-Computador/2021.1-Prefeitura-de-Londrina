@@ -61,15 +61,15 @@ A aplicação não exige tarefas que exponham o usuário ou requisições que ne
 
 ### 2.4 Utilidade
 
-A usabilidade geral do site é fraca. Tentar realizar tarefas além de buscas informações normalmente o levará a outros sites que são delegados essas funções que muitas vezes não funciona perfeitamente. O que obriga o usuário a usar outros sistemas para completar sua tarefa e dificultando sua rotina.
+A usabilidade geral do site é baixa. Tentar realizar tarefas além de buscas informações normalmente o levará a outros sites que são delegados essas funções que muitas vezes não funciona perfeitamente. O que obriga o usuário a usar outros sistemas para completar sua tarefa e dificultando sua rotina.
 
 ### 2.5 Aprendizagem
 
-O site é fácil de usar apesar de alguns problemas no design que poderia torna-lo mais bonito. Suas ações são simples e difíceis de errar, para que qualquer um possa entrar e buscar informações.
+O site, apesar de alguns problemas no design que poderia torna-lo mais bonito, não exigi muito conhecimentos técnicos. Suas ações são simples para que qualquer um possa entrar e buscar informações. Porém, por conta da baixa usabilidade entender como funciona o fluxo das ações pode demorar um tempo uma vez que o site possui muitos campos e fluxos confusos.
 
 ### 2.6 Memorização
 
-O usuário que usar e entender o fluxo não terá problemas em lembrar como usar novamente, ainda mais por ser um site que segue padrões similares a de blogs online.
+Uma vez que o usuário usar e entender o fluxo não terá problemas em lembrar como usar novamente, ainda mais por ser um site que segue padrões similares a de blogs online. Por causa da aprendizagem ser simples e demorada, o usuário deve se lembrar do que deve-se fazer para chegar ao seu objetivo.
 
 ### Referências
 
@@ -85,3 +85,4 @@ O usuário que usar e entender o fluxo não terá problemas em lembrar como usar
 |  0.2   | 02/09/2021 |  Relação das metas de usabilidade com o site avaliado  | Victor Yukio |
 |  1.0   | 02/09/2021 |                Organização dos Tópicos                 | Victor Yukio |
 |  1.1   | 03/09/2021 |                  Revisão do documento                  | Rafael Leão  |
+| 1.2 | 17/09/2021 | Corrigir ambíguidade no texto | Victor Yukio
