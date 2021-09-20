@@ -26,7 +26,7 @@ Os perfis de usuários foram definidos e identificados no planejamento e na entr
 ### Consultar IPTU
  
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../assets/img/n1_avaliacao/diagrama_IPTU.png" width="100%"></img>
+    <img src="../../assets/img/n1_avaliacao/diagrama_IPTU.png" width="100%"></img>
     <center>
     <figcaption>Figura 1 - Diagrama do fluxo de consultar IPTU.</figcaption>
     </center>
@@ -48,7 +48,7 @@ Os perfis de usuários foram definidos e identificados no planejamento e na entr
 ### Licença Sanitária
  
 <div
-   style="text-align:center"><img src="../../../assets/img/n1_avaliacao/diagrama_licensa.png"></img>
+   style="text-align:center"><img src="../../assets/img/n1_avaliacao/diagrama_licensa.png"></img>
 </div>
 <center>
    Figura 1 - Diagrama do fluxo de adquirir licença sanitária.
@@ -72,7 +72,7 @@ Os perfis de usuários foram definidos e identificados no planejamento e na entr
 ### Agendamento Seguro Desemprego
  
 <div
-   style="text-align:center"><img src="../../../assets/img/n1_avaliacao/diagrama_desemprego.png"
+   style="text-align:center"><img src="../../assets/img/n1_avaliacao/diagrama_desemprego.png"
 >
 </div>
 <center>
