@@ -44,6 +44,9 @@ nav:
     - Nível 2:
       - Protótipo de papel:
         - Planejamento prototipo de Papel: prototipo_de_papel/planejamento.md
+    - Nivel 3:
+      - Protótipo de alta fidelidade:
+          - Planejamento prototipo de Alta Fidelidade: atividades_design/prototipo_alta/planejamento_avaliacao.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
     - Apresentaçao 2: apresentacao/apresentacao2.md
