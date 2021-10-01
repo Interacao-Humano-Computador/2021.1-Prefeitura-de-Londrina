@@ -134,7 +134,7 @@ Dessa forma, conseguiremos embasar e fundamentar para uma melhora e consolidaç�
 
 ## Relato dos resultados
 <p style="text-indent: 20px; text-align: justify">
-A última etapa é o relato dos resultados aos stakeholders. Serão comunidados todos os objetivos da avaliação, o protótipo será descrito e o método utilizado, a quantidade de participantes e qual o perfil deles e também dos avaliadores em cada etapa, cada tarefa executada, indicação do que pode ser melhorado, problemas corrigidos durante a avaliação com local onde ocorreu, fatores de usabilidade prejudicados, descrição do problema e sua justificativa, correção feita no protótipo, se o problema perdurou ou não e os problemas não corrigidos.
+A última etapa é o relato dos resultados aos stakeholders. Serão comunicados todos os objetivos da avaliação, o protótipo será descrito e o método utilizado, a quantidade de participantes e qual o perfil deles e também dos avaliadores em cada etapa, cada tarefa executada, indicação do que pode ser melhorado, problemas corrigidos durante a avaliação com local onde ocorreu, fatores de usabilidade prejudicados, descrição do problema e sua justificativa, correção feita no protótipo, se o problema perdurou ou não e os problemas não corrigidos.
 </p>
  
 ## Referências bibliográficas
