@@ -96,7 +96,7 @@ O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avali
 Este é o protótipo de alta fidelidade que definimos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do portal da Prefeitura.
 </p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/GLy4yjYIeU9mOAwmcOxCvT/IHC----2021-team-library?embed_host=share&kind=&node-id=313%3A2&page-id=0%3A1&scaling=scale-down-width&starting-point-node-id=313%3A2" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="650" src="https://www.figma.com/proto/GLy4yjYIeU9mOAwmcOxCvT/IHC----2021-team-library?embed_host=share&kind=&node-id=313%3A2&page-id=0%3A1&scaling=scale-down-width&starting-point-node-id=313%3A2" allowfullscreen></iframe>
 
 
 ## Coleta de Dados & Interpretação
@@ -147,3 +147,4 @@ A última etapa é o relato dos resultados aos stakeholders. Serão comunicados 
 | Versão | Data| Modificação|Autor|
 | :--: | :--: | :--: | :--:|
 | 1.0    | 27/09/2021 | Criação do documento | Victor Lima e Abner Filipe |
+| 1.1 | 01/10/2021 | Revisão e protótipo de alta fidelidade | Victor Yukio e Davi Marinho |
