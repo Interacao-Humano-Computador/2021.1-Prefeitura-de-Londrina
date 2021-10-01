@@ -1,6 +1,7 @@
 # Planejamento da avaliação do Protótipo de papel
- 
+
 ## Objetivo
+
 <p style="text-indent: 20px; text-align: justify">
 O objetivo desse documento é especificar as etapas para a execução da avaliação do protótipo em papel.
 </p>
@@ -12,7 +13,7 @@ O planejamento de avaliação do protótipo em papel foi baseado nas informaçõ
  
 | Atividade | <p style="text-indent: 20px;">Tarefa</p> |
 |:--|:---|
-| Preparação | <ul><li>Definir tarefas para os participantes executarem</li> <li>Definir o perfil dos participantes e recrutá-los</li><li>Criar protótipos em papel da interface para executar as tarefas</li><li>Executar um teste-piloto</li></ul> |
+| Preparação | <ul><li>Definir tarefas para os participantes executarem</li> <li>Definir o perfil dos participantes e recrutá-los</li><li>Criar protótipos em papel da interface para executar as tarefas</li></ul> |
 | Coleta e interpretação de dados |  <ul><li>Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador</li><li>O avaliador deve listar os problemas encontrados; e refinar os protótipos em papel para resolver mais simples</li> </ul> |
 | Consolidação dos resultados | <ul><li>Priorizar a correção dos problemas não resolvidos sugerir correções</li></ul> |
 | Relato dos resultados | <ul><li>Relatar os problemas encontrados e sugestões de correção</li></ul> |
@@ -116,5 +117,3 @@ A última etapa é relatar os resultados obtidos na avaliação. Uma vez que pos
 | 1.0 | 16/09/2021 | Criação do documento e planejamento do protótipo de papel | Davi Marinho |
 | 1.1 | 17/09/2021 | Relato, Consolidação e protótipo de papel | Victor Yukio |
 | 1.2 | 17/09/2021 | Corrigindo, atualizando e finalizando o documento | Davi Marinho |
- 
-
