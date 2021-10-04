@@ -1,10 +1,10 @@
 ## Definição
 <p align = "justify">
-O CPM-GOMS foi desenvolvido em 1988 por Bonnie John e foi designado basicamente por três motivos: para representar operadores cognitivos, perceptivos e motores, para seguir a abordagem de Critical Path Method (técnica de análise do caminho crítico), e pelo fato de Bonnie John não gostar das outras variações do GOMS. CPM-GOMS é uma versão do GOMS (Goals, Operators, Methods, Selection Rules) baseada diretamente no processador humano de informações e, portanto, no modelo de estágios paralelos do processamento humano de informações. Isso significa que o CPM-GOMS não supõe que os operadores são executados sequencialmente. Em outras palavras, operadores cognitivos, perceptivos e motores podem ser tornar paralelos conforme a tarefa. O CPM-GOMS utiliza um diagrama tipo PERT para representar os operadores e as dependências entre eles.
+O CPM-GOMS foi desenvolvido em 1988 por Bonnie John e foi designado basicamente por três motivos: para representar operadores cognitivos, perceptivos e motores, para seguir a abordagem de Critical Path Method (técnica de análise do caminho crítico), e pelo fato de Bonnie John não gostar das outras variações do GOMS. CPM-GOMS é uma versão do GOMS (Goals, Operators, Methods, Selection Rules) baseada diretamente no processador humano de informações e, portanto, no modelo de estágios paralelos do processamento humano de informações. Isso significa que o CPM-GOMS não supõe que os operadores são executados sequencialmente. Em outras palavras, operadores cognitivos, perceptivos e motores podem se tornar paralelos conforme a tarefa. O CPM-GOMS utiliza um diagrama tipo PERT para representar os operadores e as dependências entre eles.
 </p>
 
 <p align = "justify">
-O modelo CPM-GOMS é construído a partir do modelo CMN-GOMS, que gera a classificação dos operadores em cognitivos, perceptivos e motores do MHP(Model Human Processor). Assim gerando uma média de tempo estimada para a relização de cada tarefa.
+O modelo CPM-GOMS é construído a partir do modelo CMN-GOMS, que gera a classificação dos operadores em cognitivos, perceptivos e motores do MHP(Model Human Processor). Assim gerando uma média de tempo estimada para a realização de cada tarefa.
 </p>
 
 <p align = "justify">
