@@ -2,15 +2,15 @@
 
 ## Introdução
 
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 KLM ou Keystroke-level Model é um método que permite prever o tempos de execução de uma tarefa para execução sem erros por um usuário experiente. Esse método não pressupõem um esforço cognitivo do usuário já que trabalha com a ideia de um usuário experiente realizar a tarefas sem erros e, por isso, possui limitações. É um método que pode ser usado como complemento ao GOMS. [1]
 </p>
 
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 O método é estruturado em um conjunto de operadores primitivos:
 </p>
 
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
   <ul>
     <li><b>K</b> para pressionar tecla ou botão.</li>
     <li><b>P</b> para apontar com o mouse um alvo num dispositivo.</li>

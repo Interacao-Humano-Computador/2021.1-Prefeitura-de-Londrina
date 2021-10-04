@@ -1,12 +1,12 @@
 # Avaliação de tarefas
  
 ## Introdução
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 Para ter um entendimento melhor sobre o papel dos usuários para verificar como eles realizam as atividades e porque a realizam. Esse documento tem como objetivo analisar e documentar os dados coletados dessas tarefas.
 </p>
  
 ## Preparação
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 As atividades selecionadas para a avaliação foram:
 </p>
 
@@ -15,7 +15,7 @@ As atividades selecionadas para a avaliação foram:
 * Agendamento Seguro Desemprego;
  
 ### Método de avaliação
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 O método escolhido para avaliar as atividades foi o percurso cognitivo. O percurso cognitivo é um método de avaliação por inspeção cujo principal objetivo é avaliar a facilidade de aprendizado de um sistema interativo. O método conceitua as tarefas usando pela primeira vez também chamado de "aprender fazendo".
  
 Os perfis de usuários foram definidos e identificados no planejamento e na entrevista realizada.

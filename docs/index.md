@@ -3,9 +3,9 @@
 <img width="200px" style="border-radius:10%" src="./assets/img/brasao_londrina.jpg">
 </div>
 </br>
-<p align = "justify">Repositório do grupo 06 - Portal da prefeitura de Londrina, repositorio criado para o desenvolvimento da documentação do projeto da disciplina de Interação Humano-Computador, ministrado pelo professor André Barros de Sales, na Universidade de Brasília - Gama (UnB-FGA), durante o período 2021/1.</p>
+<p style="text-indent: 20px; text-align: justify">Repositório do grupo 06 - Portal da prefeitura de Londrina, repositorio criado para o desenvolvimento da documentação do projeto da disciplina de Interação Humano-Computador, ministrado pelo professor André Barros de Sales, na Universidade de Brasília - Gama (UnB-FGA), durante o período 2021/1.</p>
 
-<p align = "justify">O site escolhido foi o Portal da Prefeitura de Londrina, nesse site atualmente (2021) estão as noticías da cidade de Londrina, o planejamento para o combate da COVID-19, Portal de transparencia, Atividades e Projetos e outras funções.</p>
+<p style="text-indent: 20px; text-align: justify">O site escolhido foi o Portal da Prefeitura de Londrina, nesse site atualmente (2021) estão as noticías da cidade de Londrina, o planejamento para o combate da COVID-19, Portal de transparencia, Atividades e Projetos e outras funções.</p>
 
 ## Integrantes
 | Foto | Nome | Github | Email |

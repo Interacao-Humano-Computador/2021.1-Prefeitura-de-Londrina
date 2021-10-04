@@ -1,23 +1,23 @@
 ## Definição
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 O GOMS é um método de análise de tarefas que permite a representação do conhecimento necessário para a realização de uma tarefa por parte de um usuário. Nessas representações podemos encontrar goals que são as metas e submetas que o usuário deseja fazer, operators que são as ações que o software permite que o usuário tome e que são diretamente relacionadas com o dispositivo em si, methods que são sequências claras de goals e operators que permitem o usuário concluir uma tarefa, selection rules que são as regras que o usuário pode seguir para decidir qual método usará para atingir uma goal. Dentre as limitações, podemos citar que o GOMS não considera o comportamento do usuário, por exemplo, fadiga, influências do ambiente social ou fatores organizacionais. O GOMS também não considera erros e considera apenas que usuários experientes estajam usando e não usuários iniciantes.
 </p>
  
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 O CMN-GOMS é um proposta de união entre o GOMS e o KML, que define uma sintaxe padronizada onde há uma única hierarquia estrita de objetivos, onde os operadores são executados estritamente em ordem sequencial e os métodos são representados numa notação semelhante a um pseudocódigo. Essa técnica requer uma estrita estrutura de regras de seleção de operação de método de objetivo. 
 </p>
  
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 A estrutura é rígida o suficiente para que o avaliador representa as tarefas em um formato de pseudocódigo (nenhuma sintaxe formal é ditada). Ele também fornece um guia sobre como formular regras de seleção.
 </p>
  
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 Este método também pode ser usado para estimar a carga que a tarefa coloca no usuário. Por exemplo, examinar o número de níveis abaixo da árvore de tarefas em que um ramo de objetivo é pode ser usado para estimar a demanda de memória que a tarefa coloca no sistema. O processo deve recolher informações sobre todos os níveis acima da ramificação atual. Essa técnica é mais flexível do que o modelo de nível de pressionamento de tecla (KLM) porque o pseudocódigo está em uma forma geral. Ou seja, ele pode ser executado para diferentes cenários percorrendo diferentes ramos, enquanto o procedimento KLM é uma lista simples que deve ser recriada para cada tarefa diferente.
 </p>
  
 ## Análise
  
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 Essa é uma análise que busca mapear a sequência e quantidade de objetivos, sub objetivos, métodos e operações utilizados para atingir algumas tarefas de caráter rotineiro do site, foco desse projeto. Cabe destacar que para cada objetivo é partindo do princípio que o usuário está na página inicial do site. Abaixo está a lista de objetivos analisados.
 </p>
  
