@@ -1,7 +1,7 @@
 # Entrevistas
 
 ## Introdução
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 Este documento tem como objetivo documentar e analisar as entrevistas feitas com as personas selecionadas e no questionário feito no planejamento.
 </p>
 

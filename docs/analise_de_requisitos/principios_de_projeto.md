@@ -2,16 +2,16 @@
 
 ## Introdução
 
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 Princípios de projeto são recomendações mais concretas que desenvolvedores de software devem seguir para atender às propriedades de projeto. Assim, propriedades de projeto podem ser vistas como recomendações ainda genéricas (ou táticas), enquanto que os princípios estão em um nível operacional.
 </p>
-<p  align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 Os princípios de projeto têm um ponto em comum: eles não visam apenas resolver um problema, mas também assegurar que a solução encontrada possa ser mantida e evoluída com sucesso, no futuro. Os maiores problemas com projetos de software costumam ocorrer após a implementação, quando o sistema precisa ser mantido. Normalmente, existe uma tendência de que essa manutenção fique gradativamente mais lenta, custosa e arriscada
 </p>
 
 ## Princípios
 
-<p  align = "justify">
+<p style="text-indent: 20px; text-align: justify">
  São objetos de estudo alguns princípios e diretrizes, eles são:
 </p>
 

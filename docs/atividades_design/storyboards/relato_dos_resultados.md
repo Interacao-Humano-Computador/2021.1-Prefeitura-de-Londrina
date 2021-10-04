@@ -2,12 +2,19 @@
 
 ## Objetivo da Avaliação
 
+<p style="text-indent: 20px; text-align: justify">
 Essa avaliação tem por objetivo avaliar a usabilidade do site da Prefeitura de Londrina, através dos storyboards construídos com base nas personas e na análise de tarefas feita anteriormente. Esses storyboards trazem uma simulação da interação de usuários com o site em questão.
+</p>
 
 ## Método
 
+<p style="text-indent: 20px; text-align: justify">
 O storyboard é um tipo de prototipação de baixa fidelidade, que traz uma série de desenhos que mostram como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
 Para avaliar o storyboard aplicamos o questionário encontrado no planejamento nas seguintes personas: Persona 1 - Giovanni Carlos, Persona 2 - Maria Fernanda e Persona 3 - Jose Amaurilio, Persona 4 - Julia Cristina, Persona 5 - Pedro Tomás.
+</p>
 
 ## Questionário
 
@@ -68,16 +75,22 @@ Para avaliar o storyboard aplicamos o questionário encontrado no planejamento n
 
 
 ## Problemas encontrados
-Após a aplicação dos questionários, foi possível encontrar alguns problemas com os storyboard elaborados. São eles: 
+
+<p style="text-indent: 20px; text-align: justify">
+Após a aplicação dos questionários, foi possível encontrar alguns problemas com os storyboard elaborados. São eles:
+</p>
 
 - Poderia ser melhor explicado para pessoas com menos familiaridade com a tecnologia, como chegar em determinadas página e abas;
 - Poderia ser melhor retratado como problemas de lentidão podem afetar e atrapalhar o usuário;
 - Retratar melhor como problemas de fluidez e responsividade podem atrapalhar o usuário a atingir seu objetivo.
 
 ## Possíveis Soluções
-A partir dos problemas listados no tópico anterior, foi possível elaborar uma lista com as possíveis soluções para esses problemas:
 
--  Na fala do personagem que está explicando a tarefa, poderia ter uma referência de onde na tela se encontra o botão ou aba referida;
+<p style="text-indent: 20px; text-align: justify">
+A partir dos problemas listados no tópico anterior, foi possível elaborar uma lista com as possíveis soluções para esses problemas:
+</p>
+
+- Na fala do personagem que está explicando a tarefa, poderia ter uma referência de onde na tela se encontra o botão ou aba referida;
 - Na fala do personagem que está explicando a tarefa, poderia ser citado a possibilidade de o usuário enfrentar lentidão;
 
 ## Referências

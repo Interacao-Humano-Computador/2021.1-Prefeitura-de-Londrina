@@ -2,24 +2,34 @@
 
 ## Objetivo
 
+<p style="text-indent: 20px; text-align: justify">
 Planejar a execução de uma avaliação dos storyboards elaborados a partir da análise de tarefas.
+</p>
 
 ## Metodologia
 
+<p style="text-indent: 20px; text-align: justify">
 Para o planejamento utilizaremos o framework DECIDE proposto por Sharp, Rogers e Preece (2007) para guiar o planejamento.
+</p>
 
 ### Coleta de dados e interpretação
 
+<p style="text-indent: 20px; text-align: justify">
 Para avaliar essa primeira versão do storyboard, deve ser feito um questionário com 5 personas, onde cada uma irá apresentar seu ponto de vista e grau de interação diferente com o site. As personas escolhidas foram as seguintes: Persona 1 - Giovanni Carlos, Persona 2 - Maria Fernanda e Persona 3 - Jose Amaurilio, Persona 4 - Julia Cristina, Persona 5 - Pedro Tomás.
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 Nesta etapa deve-se:
+</p>
 
 - executar a avaliação;
 - listar os problemas encontrados.
 
 ### Questionário
 
+<p style="text-indent: 20px; text-align: justify">
 Com o objetivo de gerar uma maior objetividade da avaliação, foi elaborado um questionário com algumas perguntas que ajudarão no planejamento dessa avaliação. Todos os storyboards passarão por esse questionário.
+</p>
 
 | Pergunta                                                                    | Opções                                         |
 | --------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -32,9 +42,13 @@ Com o objetivo de gerar uma maior objetividade da avaliação, foi elaborado um 
 
 ### Planejamento do relato dos resultados
 
+<p style="text-indent: 20px; text-align: justify">
 Para o relato dos resultados será realizado um relatório consolidado os seguintes tópicos:
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 Os objetivos e escopo da avaliação;
+</p>
 
 - A forma como a avaliação foi realizada (método de avaliação empregado);
 - O número participantes que realizaram o questionário;

@@ -2,17 +2,17 @@
 
 ## Objetivos
 
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 Esse documento tem como objetivo encontrar o fluxo de ações de um usuário baseado na análise de tarefas e saber se é algo que ele realmente faria.
 </p>
 
 ## Metodologia
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 A nossa metodologia será entrevistas com 3 personas, criadas por nós, e iremos coletar os dados. As personas entrevistadas serão: Persona 1 - Giovanni Carlos, Persona 2 - Maria Fernanda e Persona 5 - Pedro Tomás.
 </p>
 
 ## Entrevista
-<p align = "justify">
+<p style="text-indent: 20px; text-align: justify">
 A entrevista será guiada através de um questionário. As respostas serão utilizadas para criar uma nova análise de tarefas.
 A entrevista será com feita mediante a um questionário. As respostas serão importantes para criar uma nova análise de tarefas.
 </p>
