@@ -9,7 +9,7 @@ A análise de tarefas busca compreender o trabalho dos usuários, colocando em p
 ## Análise Hierárquica de Tarefas (HTA)
 
 <p align = "justify">
- A análise Hierárquica de tarefas analisa os objetivos de alto nível e os decompões em subobjetivos que são alcançados por operações, a unidade fundamental do HTA.
+ A análise Hierárquica de tarefas analisa os objetivos de alto nível e os decompõem em subobjetivos que são alcançados por operações, a unidade fundamental do HTA.
 </p>
 * Uma **tarefa** é definida como qualquer parte do trabalho a ser realizado.
 * Um **objetivo** é um estado final.

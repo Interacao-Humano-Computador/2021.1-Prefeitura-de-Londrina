@@ -1,5 +1,6 @@
 site_name: Prefeitura de Londrina
 repo_url: https://github.com/Interacao-Humano-Computador/2021.1-Prefeitura-de-Londrina 
+repo_name: 2021.1-Prefeitura-de-Londrina
 
 theme:
   name: "material"
@@ -7,8 +8,6 @@ theme:
     - pt
   palette:
     primary: green
-  features:
-    - navigation.tabs
   logo: assets/img/brasao_londrina.jpg
   favicon: assets/img/brasao_londrina.jpg
   palette:
@@ -46,10 +45,26 @@ nav:
         - Planejamento protótipo de Papel: prototipo_de_papel/planejamento.md
         - Relato dos resultados da avaliação do protótipo de Papel: prototipo_de_papel/relato-dos-resultados.md
         - Protótipo: prototipo_de_papel/prototipoBaixa.md
+        - Termo de consentimento: prototipo_de_papel/termo-de-consentimento.md
     - Nivel 3:
       - Protótipo de alta fidelidade:
           - Planejamento da Avaliação Prototipo de Alta Fidelidade: atividades_design/prototipo_alta/planejamento_avaliacao.md
           - Protótipo: atividades_design/prototipo_alta/prototipoAlta.md
+          - Termo de consentimento: atividades_design/prototipo_alta/termo-de-consentimento.md
+  - Verificações: 
+    - Personas: verificacao_dos_artefatos/personas.md
+    - Entrevista: verificacao_dos_artefatos/entrevista.md
+    - Princípios de Projeto: verificacao_dos_artefatos/principios.md
+    - Metas de Usabilidade: verificacao_dos_artefatos/metas_de_usabilidade.md
+    - Guia de Estilo: verificacao_dos_artefatos/guia_de_estilo.md
+    - Análise de Tarefas: verificacao_dos_artefatos/analise_de_tarefas.md
+    - Planejamento e Avaliação da Análise de Tarefas: verificacao_dos_artefatos/planejamento_e_avalicao_AT.md
+    - Storyboards: verificacao_dos_artefatos/storyboards.md
+    - Planejamento e Avaliação dos Storyboards: verificacao_dos_artefatos/planejamento_e_avaliacao_storyboards.md
+    - Protótipo de Papel: verificacao_dos_artefatos/prototipo_papel.md
+    - Planejameno e Avaliação do Protótipo de Papel: verificacao_dos_artefatos/planejamento_e_avalicao_PP.md
+    - Protótipo de Alta-Fidelidade: verificacao_dos_artefatos/prototipo_de_alta_fidelidade.md
+    - Planejamento e Avaliação do Protótipo de Alta-Fidelidade: verificacao_dos_artefatos/planejamento_e_avalicao_PA.md
   - Apresentações: 
     - Apresentação 1: apresentacao/apresentacao1.md
     - Apresentaçao 2: apresentacao/apresentacao2.md
