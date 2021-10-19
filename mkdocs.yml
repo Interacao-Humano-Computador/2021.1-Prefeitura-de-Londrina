@@ -21,7 +21,6 @@ nav:
   - Analise de Requisitos: 
     - Análise de tarefas:
       - CMN GOMS: analise_de_requisitos/analise_de_tarefas/cmn_goms.md
-      - CPM GOMS: analise_de_requisitos/analise_de_tarefas/cpm_goms.md
       - CTT: analise_de_requisitos/analise_de_tarefas/ctt.md
       - HTA: analise_de_requisitos/analise_de_tarefas/hta.md
       - KLM: analise_de_requisitos/analise_de_tarefas/klm.md
