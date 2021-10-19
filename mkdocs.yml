@@ -49,8 +49,12 @@ nav:
     - Nivel 3:
       - Protótipo de alta fidelidade:
           - Planejamento da Avaliação Prototipo de Alta Fidelidade: atividades_design/prototipo_alta/planejamento_avaliacao.md
+          - Resultados da Avaliação Prototipo de Alta Fidelidade: atividades_design/prototipo_alta/resultados_avaliacao.md
           - Protótipo: atividades_design/prototipo_alta/prototipoAlta.md
           - Termo de consentimento: atividades_design/prototipo_alta/termo-de-consentimento.md
+          - Assinaturas:
+            - Antônio Rangel: atividades_design/prototipo_alta/assinaturas/antonio_rangel.md
+            - Kess Jhones: atividades_design/prototipo_alta/assinaturas/kess_jhones.md
   - Verificações: 
     - Personas: verificacao_dos_artefatos/personas.md
     - Entrevista: verificacao_dos_artefatos/entrevista.md
