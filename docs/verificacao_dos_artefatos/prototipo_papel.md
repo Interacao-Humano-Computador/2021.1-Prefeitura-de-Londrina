@@ -6,18 +6,14 @@ A técnica utilizada para a verificação do protótipo de papel foi a de check-
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
-* O documento segue o padrão estabelecido pelo grupo?
 * Há imagens ou exemplos do protótipo de papel?
 
 ## Verificação
 
 | Check-list                                                   | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação? | Sim |
 | Existe uma introdução ao tópico?                             | Sim |
-| O documento segue o padrão estabelecido pelo grupo?          | Sim |
 | Há imagens ou exemplos do protótipo de papel?                | Sim |
 
 

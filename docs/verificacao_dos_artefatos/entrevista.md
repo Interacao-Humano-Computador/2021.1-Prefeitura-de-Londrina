@@ -6,7 +6,6 @@ A técnica utilizada para a verificação da entrevista foi a de check-list.
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Todas as entrevista estão bem definidas e formatadas?
 * A entrevista deixa claro quem foi o entrevistado?
 * Os resultados da entrevista estão bem definidos?
@@ -15,7 +14,6 @@ A técnica utilizada para a verificação da entrevista foi a de check-list.
 
 | Check-list                                                    | Giovanni Carlos | Maria Fernanda | Pedro Tomás |
 |---|---|---|---|
-| O arquivo está livre de erros ortográficos ou de formatação?  | Sim | Sim | Sim | Sim |
 | A entrevista está bem definida e formatada?                   | Sim | Sim | Sim | Sim |
 | A entrevista deixa claro quem foi o entrevistado?             | Sim | Sim | Sim | Sim |
 | Os resultados da entrevista estão bem definidos?              | Sim | Sim | Sim | Sim |

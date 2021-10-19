@@ -45,13 +45,12 @@ nav:
         - Planejamento protótipo de Papel: prototipo_de_papel/planejamento.md
         - Relato dos resultados da avaliação do protótipo de Papel: prototipo_de_papel/relato-dos-resultados.md
         - Protótipo: prototipo_de_papel/prototipoBaixa.md
-        - Termo de consentimento: prototipo_de_papel/termo-de-consentimento.md
     - Nivel 3:
       - Protótipo de alta fidelidade:
           - Planejamento da Avaliação Prototipo de Alta Fidelidade: atividades_design/prototipo_alta/planejamento_avaliacao.md
           - Protótipo: atividades_design/prototipo_alta/prototipoAlta.md
-          - Termo de consentimento: atividades_design/prototipo_alta/termo-de-consentimento.md
   - Verificações: 
+    - Verificações gerais do site: verificacao_dos_artefatos/verificacoes_gerais.md
     - Personas: verificacao_dos_artefatos/personas.md
     - Entrevista: verificacao_dos_artefatos/entrevista.md
     - Princípios de Projeto: verificacao_dos_artefatos/principios.md

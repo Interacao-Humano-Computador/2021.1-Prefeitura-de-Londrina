@@ -6,7 +6,6 @@ A técnica utilizada para a verificação do guia de estilo foi a de check-list.
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
 * O planejamento e o uso estão de acordo com o conteúdo da disciplina de IHC?
 * Ele é construído de maneira clara e compreensiva?
@@ -15,7 +14,6 @@ A técnica utilizada para a verificação do guia de estilo foi a de check-list.
 
 | Check-list                                                                  | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação?               | Sim |
 | Existe uma introdução ao tópico?                                            | Sim |
 | O planejamento e o uso estão de acordo com o conteúdo da disciplina de IHC? | Sim |
 | Ele é construído de maneira clara e compreensiva?                           | Sim |

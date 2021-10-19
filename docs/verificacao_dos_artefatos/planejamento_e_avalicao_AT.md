@@ -6,19 +6,15 @@ A técnica utilizada para a verificação do planejamento e avaliação das Aná
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * O planejamento da avaliação da análise de tarefas está descrita de forma clara? 
 * O documento segue o padrão da análise abordada?
-* O documento segue o padrão estabelecido pelo grupo?
 
 ## Verificação
 
 | Check-list                                                   | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação? | Sim |
 | Existe uma introdução ao tópico?                             | Sim |
 | O documento segue o padrão da análise abordada?              | Sim |
-| O documento segue o padrão estabelecido pelo grupo?          | Sim |
 
 
 ## Conclusão

@@ -6,10 +6,8 @@ A técnica utilizada para a verificação do planejamento e avaliação dos prot
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
 * O planejamento e o uso estão de acordo com o conteúdo da disciplina de IHC?
-* O documento segue o padrão estabelecido pelo grupo?
 * Os objetivos da avaliação estão claros?
 * O Termo de Consentimento está disponível no documento?
 
@@ -17,10 +15,8 @@ A técnica utilizada para a verificação do planejamento e avaliação dos prot
 
 | Check-list                                                                  | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação?                | Sim |
 | Existe uma introdução ao tópico?                                            | Sim |
 | O planejamento e o uso estão de acordo com o conteúdo da disciplina de IHC? | Sim |
-| O documento segue o padrão estabelecido pelo grupo?                         | Sim |
 | Os objetivos da avaliação estão claros?                                     | Sim |
 | O Termo de Consentimento está disponível no documento?                      | Sim |
 

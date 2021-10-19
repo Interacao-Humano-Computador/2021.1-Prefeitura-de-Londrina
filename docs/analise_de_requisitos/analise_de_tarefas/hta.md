@@ -20,6 +20,9 @@ A análise de tarefas busca compreender o trabalho dos usuários, colocando em p
 ## Análise da tarefa de acesso às informações do covid-19
 
 <img width="1000px" src="../../../assets/img/diagrama_hta.png">
+<center>
+    Figura 1 - Diagrama de acesso a informações covid-19.
+</center>
 
 ## Referências
 
@@ -31,3 +34,4 @@ A análise de tarefas busca compreender o trabalho dos usuários, colocando em p
 | :----: | :--------: | :--------------------------------------------: | :---------: |
 |  1.0   | 27/08/2021 |            Criação do diagrama HTA.            | Victor Lima |
 |  1.1   | 27/08/2021 | Criação do documento com diagrama e descrição. | Victor Lima |
+|  1.2   | 19/10/2021 | Correção da legenda da imagem.                 | Davi Marinho |

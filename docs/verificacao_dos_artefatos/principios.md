@@ -6,9 +6,7 @@ A técnica utilizada para a verificação dos Princípios de Projeto foi a de ch
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
-* O documento segue o padrão estabelecido pelo grupo?
 * Os princípios estão descritos de forma clara?
 * Os princípios estão de acordo com o projeto?
 
@@ -16,9 +14,7 @@ A técnica utilizada para a verificação dos Princípios de Projeto foi a de ch
 
 | Check-list                                                   | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação? | Sim |
 | Existe uma introdução ao tópico?                             | Sim |
-| O documento segue o padrão estabelecido pelo grupo?          | Sim |
 | Os princípios estão descritos de forma clara?                | Sim |
 | Os princípios estão de acordo com o projeto?                 | Sim |
 
