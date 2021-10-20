@@ -130,3 +130,4 @@ Todas as informações que o entrevistado nos ofereceu foram suficientes para me
 |  0.3   | 19/10/2021 | Adicionando modelo de entrevista  | Vitor Diniz e Rafael Leão |
 |  0.4   | 19/10/2021 | Adicionando relato dos resultados | Vitor Diniz e Rafael Leão |
 |  1.0   | 19/10/2021 |       Finalizando documento       | Vitor Diniz e Rafael Leão |
+|  1.1   | 19/10/2021 |       Revisão do documento        | Davi Marinho              |
