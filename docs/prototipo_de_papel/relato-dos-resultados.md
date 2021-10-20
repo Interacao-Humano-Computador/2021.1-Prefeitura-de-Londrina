@@ -27,6 +27,11 @@ Após um período de procura por voluntários a serem entrevistados acerca deste
 - **André Gouveia Maciel**, 21 anos, estudante;
 - **Julia Salvi Rataieski**, 19 anos, assistente de vendas.
 
+Link para as assinaturas dos termos de consentimento:
+
+- <a href="/prototipo_de_papel/assinaturas/andre_maciel">Andre Maciel</a>
+- <a href="/prototipo_de_papel/assinaturas/julia_rataieski">Julia Rataieski</a>
+
 <p style="text-indent: 20px; text-align: justify"> 
 Infortunadamente, o grupo não conseguiu obter mais pessoas para participarem da entrevista. Sendo assim, não foi possível atingir o número de pessoas ideal recomendado por Nielsen(2000), de 5 pessoas. Apesar disso, o grupo acredita que as críticas e comportamentos levantados pelos participantes convidados foram úteis em avaliar a qualidade do protótipo de papel construído.
 </p>
