@@ -13,7 +13,7 @@ Nesse projeto iremos tratar da prefeitura de Londrina, sendo assim o publico alv
 # 2. Personas
 
 <p style="text-indent: 20px; text-align: justify">
-Personas são personagens fictícios, criadas para descrever o publico alvo do projeto, elas foram desenvolvidas analisando grupo de usuários reais e funcionalidades do site. Essas personas foram criadas para descrever o uso comum do site e ajudar a dar foco no processo de design para cada tipo de usuário. A segui podemos encontrar 5 tipos de usuários diferentes:
+Personas são personagens fictícios, criadas para descrever o publico alvo do projeto, elas foram desenvolvidas analisando grupo de usuários reais e funcionalidades do site. Essas personas foram criadas para descrever o uso comum do site e ajudar a dar foco no processo de design para cada tipo de usuário. A seguir podemos encontrar 5 tipos de usuários diferentes:
 </p>
 
 ## Giovanni Carlos

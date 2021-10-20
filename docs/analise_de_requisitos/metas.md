@@ -48,28 +48,34 @@ A capacidade de memorização refere-se à facilidade de lembrar como utilizar u
 ## 2. Relações das usabilidades com a Prefeitura de Londrina
 
 ### 2.1 Eficácia
-
+<p style="text-indent: 20px; text-align: justify">
 Para o cidadão ou visitante de Londrina,o sistema consegue ser um centro de informações eficaz, uma vez que não se acha muitas notícias ou informação de Londrina em outros sites.
+</p>
 
 ### 2.2 Eficiência
-
+<p style="text-indent: 20px; text-align: justify">
 O site da prefeitura de Londrina possui várias notícias, informações e dados da cidade, porem não fornece bons mecanismos de pesquisa. Oque pode torna a procura um pouco frustante no meio de tanta informação.
+</p>
 
 ### 2.3 Segurança
-
+<p style="text-indent: 20px; text-align: justify">
 A aplicação não exige tarefas que exponham o usuário ou requisições que necessitam de proteger o usuário de cometer um erro como apagar uma notícia ou enviar dados pessoal/importantes. Por isso, também não foi identificado nenhum mecanismo de proteção para o usuário também.
+</p>
 
 ### 2.4 Utilidade
-
+<p style="text-indent: 20px; text-align: justify">
 A usabilidade geral do site é baixa. Tentar realizar tarefas além de buscas informações normalmente o levará a outros sites que são delegados essas funções que muitas vezes não funciona perfeitamente. O que obriga o usuário a usar outros sistemas para completar sua tarefa e dificultando sua rotina.
+</p>
 
 ### 2.5 Aprendizagem
-
+<p style="text-indent: 20px; text-align: justify">
 O site, apesar de alguns problemas no design que poderia torna-lo mais bonito, não exigi muito conhecimentos técnicos. Suas ações são simples para que qualquer um possa entrar e buscar informações. Porém, por conta da baixa usabilidade entender como funciona o fluxo das ações pode demorar um tempo uma vez que o site possui muitos campos e fluxos confusos.
+</p>
 
 ### 2.6 Memorização
-
+<p style="text-indent: 20px; text-align: justify">
 Uma vez que o usuário usar e entender o fluxo não terá problemas em lembrar como usar novamente, ainda mais por ser um site que segue padrões similares a de blogs online. Por causa da aprendizagem ser simples e demorada, o usuário deve se lembrar do que deve-se fazer para chegar ao seu objetivo.
+</p>
 
 ### Referências
 
@@ -85,4 +91,6 @@ Uma vez que o usuário usar e entender o fluxo não terá problemas em lembrar c
 |  0.2   | 02/09/2021 |  Relação das metas de usabilidade com o site avaliado  | Victor Yukio |
 |  1.0   | 02/09/2021 |                Organização dos Tópicos                 | Victor Yukio |
 |  1.1   | 03/09/2021 |                  Revisão do documento                  | Rafael Leão  |
-| 1.2 | 17/09/2021 | Corrigir ambíguidade no texto | Victor Yukio
+|  1.2   | 17/09/2021 |                 Corrigir ambíguidade no texto          | Victor Yukio |
+|  1.3   | 19/10/2021 |           Correção de indentação no documento          | Rafael Leão  |
+
