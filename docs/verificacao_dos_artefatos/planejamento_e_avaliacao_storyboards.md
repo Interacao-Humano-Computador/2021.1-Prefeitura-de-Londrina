@@ -6,7 +6,6 @@ A técnica utilizada para a verificação do planejamento e avaliação do story
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
 * O framework DECIDE foi usado corretamente?
 * O objetivo da avaliação está claro?
@@ -16,7 +15,6 @@ A técnica utilizada para a verificação do planejamento e avaliação do story
 
 | Check-list                                                                                                                  | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação?                                                                | Sim |
 | Existe uma introdução ao tópico?                                                                                            | Sim |
 | O framework DECIDE foi usado corretamente?                                                                                  | Sim |
 | O objetivo da avaliação está claro?                                                                                         | Sim |

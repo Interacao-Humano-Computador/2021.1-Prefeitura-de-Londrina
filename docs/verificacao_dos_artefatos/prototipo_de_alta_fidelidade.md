@@ -6,9 +6,7 @@ A técnica utilizada para a verificação do protótipo de alta fidelidade foi a
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
-* O documento segue o padrão estabelecido pelo grupo?
 * Há imagens ou exemplos do protótipo de alta-fidelidade?
 * O link para o protótipo está disponível no documento?
 
@@ -16,9 +14,7 @@ A técnica utilizada para a verificação do protótipo de alta fidelidade foi a
 
 | Check-list                                                   | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação? | Sim |
 | Existe uma introdução ao tópico?                             | Sim |
-| O documento segue o padrão estabelecido pelo grupo?          | Sim |
 | Há imagens ou exemplos do protótipo de alta-fidelidade?      | Sim |
 | O link para o protótipo está disponível no documento?        | Sim |
 

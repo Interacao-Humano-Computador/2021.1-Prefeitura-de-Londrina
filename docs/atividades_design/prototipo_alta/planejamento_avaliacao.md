@@ -72,13 +72,26 @@ De posse dessas informações, gostaríamos que você comunicasse em alto e bom 
 ## Preparação
 
 ### Tarefas
-<p style="text-indent: 20px; text-align: justify">
-    <ul>
-        <li>Painel COVID</li>
-        <li>Portal</li>
-        <li>Licitações</li>
-    </ul>
-</p>
+
+### Tarefa 1:
+<ul><li>O participante deve buscar por notícias da cidade</li></ul>
+<ul><li>Análise dos passos que o participante realizou</li></ul>
+<ul><li>Trouxemos o blog de londrina para dentro do escopo do site de londrina, assim o participante dede conseguir acessar o site pelo mesmo domínio</li></ul>
+ 
+### Tarefa 2:
+<ul><li>O participante deve buscar por informações sobre contas públicas</li></ul>
+<ul><li>Análise dos passos que o participante realizou</li></ul>
+<ul><li>Verificar se o participante conseguiu sucesso na tarefa de encontrar informações sobre contas públicas</li></ul>
+ 
+### Tarefa 3:
+<ul><li>O participante deve buscar por informações sobre o COVID-19 na cidade</li></ul>
+<ul><li>Análise dos passos que o participante realizou</li></ul>
+<ul><li>Verificar se o participante conseguiu sucesso na tarefa de encontrar informações sobre o COVID-19</li></ul>
+
+### Tarefa 4:
+<ul><li>O participante deve acessar licitações e licensas pela navbar</li></ul>
+<ul><li>Análise dos passos que o participante realizou</li></ul>
+<ul><li>Verificar se o participante conseguiu sucesso na tarefa de encontrar informações sobre o licitações e licensas</li></ul>
 
 ### Perfil dos convidados
 <p style="text-indent: 20px; text-align: justify">
@@ -148,3 +161,4 @@ A última etapa é o relato dos resultados aos stakeholders. Serão comunicados 
 | :--: | :--: | :--: | :--:|
 | 1.0    | 27/09/2021 | Criação do documento | Victor Lima e Abner Filipe |
 | 1.1 | 01/10/2021 | Revisão e protótipo de alta fidelidade | Victor Yukio e Davi Marinho |
+| 1.2 | 19/10/2021 | Melhorar especificação do escopo do protótipo de alta fidelidade | Victor Yukio e Davi Marinho |

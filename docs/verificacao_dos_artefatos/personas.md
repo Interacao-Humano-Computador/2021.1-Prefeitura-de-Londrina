@@ -6,7 +6,6 @@ A técnica utilizada para a verificação do levantamento das personas foi a de 
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
 * O planejamento e o uso estão de acordo com o conteúdo da disciplina de IHC?
 * As personas estão apresentadas de forma clara e compreesiva?
@@ -16,7 +15,6 @@ A técnica utilizada para a verificação do levantamento das personas foi a de 
 
 | Check-list                                                                 | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação?               | Sim |
 | Existe uma introdução ao tópico?                                           | Sim |
 | O planejamento e o uso estão de acordo com o conteúdo da disciplina de IHC?| Sim |
 | As personas estão apresentadas de forma clara e compreesiva?               | Sim |

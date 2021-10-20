@@ -6,7 +6,6 @@ A técnica utilizada para a verificação das Metas de Usabilidadefoi a de check
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
 * Todas as metas de usabilidade estão sendo listadas?
 * Todas as metas de usabilidade estão sendo destritas de forma clara e compreensiva?
@@ -15,7 +14,6 @@ A técnica utilizada para a verificação das Metas de Usabilidadefoi a de check
 
 | Check-list | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação?                       | Sim |
 | Existe uma introdução ao tópico?                                                   | Sim |
 | Todas as metas de usabilidade estão sendo listadas?                                | Sim |
 | Todas as metas de usabilidade estão sendo destritas de forma clara e compreensiva? | Sim |

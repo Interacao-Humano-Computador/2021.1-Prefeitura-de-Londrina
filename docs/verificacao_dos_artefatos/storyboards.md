@@ -6,9 +6,7 @@ A técnica utilizada para a verificação de storyboards foi a de check-list.
 </p>
 
 ## Check-list 
-* O arquivo está livre de erros ortográficos ou de formatação?
 * Existe uma introdução ao tópico?
-* O documento segue o padrão estabelecido pelo grupo?
 * O planejamento e o uso estão de acordo com o conteúdo da disciplina de IHC?
 * O storyboard tem um roteiro bem definido?
 * O storyboard segue o roteiro?
@@ -20,9 +18,7 @@ A técnica utilizada para a verificação de storyboards foi a de check-list.
 
 | Check-list                                                                  | Resposta |
 |---|---|
-| O arquivo está livre de erros ortográficos ou de formatação?                | Sim |
 | Existe uma introdução ao tópico?                                            | Sim |
-| O documento segue o padrão estabelecido pelo grupo?                         | Sim |
 | O planejamento e o uso estão de acordo com o conteúdo da disciplina de IHC? | Sim |
 | O storyboard tem um roteiro bem definido?                                   | Sim |
 | O storyboard segue o roteiro?                                               | Sim |
