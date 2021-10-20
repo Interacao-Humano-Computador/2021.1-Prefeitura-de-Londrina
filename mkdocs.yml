@@ -45,10 +45,19 @@ nav:
         - Planejamento protótipo de Papel: prototipo_de_papel/planejamento.md
         - Relato dos resultados da avaliação do protótipo de Papel: prototipo_de_papel/relato-dos-resultados.md
         - Protótipo: prototipo_de_papel/prototipoBaixa.md
+        - Termo de consentimento: prototipo_de_papel/termo-de-consentimento.md
+        - Assinaturas:
+            - Andre Maciel: prototipo_de_papel/assinaturas/andre_maciel.md
+            - Julia Rataieski: prototipo_de_papel/assinaturas/julia_rataieski.md
     - Nivel 3:
       - Protótipo de alta fidelidade:
           - Planejamento da Avaliação Prototipo de Alta Fidelidade: atividades_design/prototipo_alta/planejamento_avaliacao.md
+          - Resultados da Avaliação Prototipo de Alta Fidelidade: atividades_design/prototipo_alta/resultados_avaliacao.md
           - Protótipo: atividades_design/prototipo_alta/prototipoAlta.md
+          - Termo de consentimento: atividades_design/prototipo_alta/termo-de-consentimento.md
+          - Assinaturas:
+            - Antônio Rangel: atividades_design/prototipo_alta/assinaturas/antonio_rangel.md
+            - Kess Jhones: atividades_design/prototipo_alta/assinaturas/kess_jhones.md
   - Verificações: 
     - Verificações gerais do site: verificacao_dos_artefatos/verificacoes_gerais.md
     - Personas: verificacao_dos_artefatos/personas.md
